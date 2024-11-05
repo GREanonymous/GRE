@@ -1,0 +1,502 @@
+[
+    {
+        "question": "How long has the location at the fish's southernmost range been a country?",
+        "answer": "199",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Cocinero ranging along the west American coastline from', 'Cocinero to Peru in the south. I', 'Peru De la Serna abandoned the city and on 12 July 1821 San Martin occupied Lima and declared Peruvian independence on 28 July 1821']\n=========\nQUESTION: How long has the location at the fish's southernmost range been a country?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Who is attributed with the discovery of the ocean where the cocinero is distributed?",
+        "answer": "Vasco Núñez de Balboa",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Cocinero The cocinero is distributed through the tropical eastern Pacific Ocean,', 'Pacific Ocean the eastern Pacific was first sighted by Europeans in the early 16th century when Spanish explorer Vasco Núñez de Balboa']\n=========\nQUESTION: Who is attributed with the discovery of the ocean where the cocinero is distributed?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When did the state that has many Russian place names join the United States of America?",
+        "answer": "March 30, 1867",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Alaska On March 30, 1867, the United States purchased Alaska from the Russian Empire for 7.2\\xa0million U.S. dollars', 'Russian exploration of the Pacific Northwest much of what comprises the modern American state of Alaska, many locations retain Russian place names']\n=========\nQUESTION: When did the state that has many Russian place names join the United States of America?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "In what year was the group that Laskov joined as a teenager formed?",
+        "answer": "1920 ",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Haim Laskov Laskov joined the Haganah as a teenager', 'Haganah Haganah (, lit. The Defence) was the main paramilitary organization of the Jewish Yishuv in Mandatory Palestine between 1920 and 1948,']\n=========\nQUESTION: In what year was the group that Laskov joined as a teenager formed?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What date in 1571 did the Battle of Lepanto take place?",
+        "answer": "7 October 1571",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Battle of Lepanto The Battle of Lepanto was a naval engagement that took place on 7 October 1571', 'Palmanova the Battle of Lepanto in 1571,']\n=========\nQUESTION: What date in 1571 did the Battle of Lepanto take place?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How old was the person Hartley replaced in 1916 at the time of his death?",
+        "answer": "69",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Hartley Dewart He was first elected to the provincial legislature in a 1916 by-election after the death of', 'James Joseph Foy James Joseph \"J.J.\" Foy (February 22, 1847 – June 13, 1916)']\n=========\nQUESTION: How old was the person Hartley replaced in 1916 at the time of his death?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Of the three coaches Wake Forest had from 2007 to 2014, who coached the team the longest?",
+        "answer": "Danny Manning",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n[\"Wake Forest University . Skip Prosser, Wake Forest University's men's basketball coach since 2001, died in Winston-Salem on July 26, 2007. One of Prosser's assistant coaches, Dino Gaudio, was named to replace him. On April 13, 2010, Jeff Bzdelik was hired, taking the place of the recently fired Gaudio\", 'Skip Prosser On July 26, 2007, Prosser collapsed in his office', 'Wake Forest University On April 4, 2014, Wake Forest hired former NCAA Champion and NBA player Danny Manning as its new head coach.', 'Skip Prosser Prosser began his career at Wake Forest in 2001', 'Danny Manning On April 4, 2014, Manning agreed to become the head coach at Wake Forest University', 'Dino Gaudio Gaudio tallied three winning seasons at Wake Forest, making the NCAA Tournament in two out of three years']\n=========\nQUESTION: Of the three coaches Wake Forest had from 2007 to 2014, who coached the team the longest?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When did the war that the 84th Regiment was first involved in finally end?",
+        "answer": "September 3, 1783",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['84th Regiment of Foot (Royal Highland Emigrants) The 84th Regiment of Foot (Royal Highland Emigrants) was a British regiment in the American Revolutionary War', 'American Revolutionary War The war formally concluded on September 3, 1783.']\n=========\nQUESTION: When did the war that the 84th Regiment was first involved in finally end?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "In what state did Lisa Lisa appear at the eighth annual Forever Freestyle showcase?",
+        "answer": "New York",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Lehman College  The college is named after Herbert H. Lehman, a former New York governor,', 'Lisa Lisa In March 2014, she appeared with Stevie B., TKA, Sa-Fire, and others at the eighth annual Forever Freestyle showcase at the Lehman College Center for the Performing Arts in the Bronx.', 'Lehman College ehman College is a senior college of the City University of New York (CUNY) in the Bronx borough of New York City.']\n=========\nQUESTION: In what state did Lisa Lisa appear at the eighth annual Forever Freestyle showcase?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How many albums did the former singer of Kajagoogoo release after being fired by the band in 1983?",
+        "answer": "3",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n[\"Islands (Kajagoogoo album) This was the band's first album without lead vocalist Limahl, who had been fired by the band in mid-1983 and went on to pursue a solo career.\", \"Limahl His debut album, 1984's Don't Suppose, was a commercial failure in the UK, peaking at No. 63.\", \"Limahl Following this, Limahl released two more albums: 1986's Colour All My Days and Love Is Blind in 1992, both of which failed to chart in the UK but found moderate success in Italy, Spain and Germany.\"]\n=========\nQUESTION: How many albums did the former singer of Kajagoogoo release after being fired by the band in 1983?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Between the bass player and the founding drummer of Kajagoogoo, who has more siblings?",
+        "answer": "Beggs ",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Nick Beggs Beggs was born in Winslow, Buckinghamshire in 1961. His parents were Herby and Joan Beggs, and he has a younger sister, Jacqueline.', 'Islands (Kajagoogoo album) It is the final album to-date to feature founding drummer Jez Strode.', 'Islands (Kajagoogoo album) Bass player Nick Beggs,']\n=========\nQUESTION: Between the bass player and the founding drummer of Kajagoogoo, who has more siblings?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When was the Good Friday Agreement established?",
+        "answer": "10 April 1998",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Good Friday Agreement The agreement is made up of two inter-related documents, both agreed in Belfast on Good Friday, 10 April 1998:', \"Conservative–DUP agreement On 15 June Sinn Féin's Gerry Adams met with Theresa May, telling her that he thought she was in breach of the Good Friday Agreement.\"]\n=========\nQUESTION: When was the Good Friday Agreement established?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Was the city where Robert was born established before the city where he graduated from high school?",
+        "answer": "yes",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Salina, Kansas Phillips founded Salina in 1858.', 'Denver On November 22, 1858, General William Larimer and Captain Jonathan Cox, Esquire, both land speculators from eastern Kansas Territory, placed cottonwood logs to stake a claim on the bluff overlooking the confluence of the South Platte River and Cherry Creek, across the creek from the existing mining settlement of Auraria, and on the ', 'Robert Hugh McWilliams Jr. Born in Salina, Kansas, McWilliams graduated from South High School in Denver, Colorado']\n=========\nQUESTION: Was the city where Robert was born established before the city where he graduated from high school?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How many sub-families does the jack family have?",
+        "answer": "4",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Carangidae Subfamily Trachinotinae', 'Carangidae Subfamily Naucratinae', 'Carangidae Subfamily Scomberoidinae', 'Cocinero classified in the jack family, Carangidae', 'Carangidae Subfamily Caranginae']\n=========\nQUESTION: How many sub-families does the jack family have?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which nutrient that Goodale focused on during her research has a higher atomic mass?",
+        "answer": "Nitrogen",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Nitrogen Nitrogen is the chemical element with the symbol N and atomic number 7.', 'Christine Goodale Goodale specifically focuses on nutrients like carbon and nitrogen', 'Carbon Carbon (from \"coal\") is a chemical element with the symbol C and atomic number 6.']\n=========\nQUESTION: Which nutrient that Goodale focused on during her research has a higher atomic mass?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What year did the team that Bay returned from the DL against in June last win a championship?",
+        "answer": "2009",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Jason Bay Bay returned from the DL on June 8, 2012 against the New York Yankees', 'New York Yankees The Yankees have won a record 27 World Series Championships. Their most recent one came when the new stadium opened in 2009']\n=========\nQUESTION: What year did the team that Bay returned from the DL against in June last win a championship?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When was the northern range of the fish established as a place?",
+        "answer": "1539",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Cocinero he west American coastline from Baja California in the north', 'Baja California Europeans reached the present state of Baja California in 1539']\n=========\nQUESTION: When was the northern range of the fish established as a place?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When did the team that Bay returned against in July form?",
+        "answer": "1969 ",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Washington Nationals The current NL club was founded in 1969 ', 'Jason Bay and returned again on July 17 against the Washington Nationals.']\n=========\nQUESTION: When did the team that Bay returned against in July form?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Were either of the women who were nominated for awards for Community born outside the United States?",
+        "answer": "no",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n[\"Community (TV series) In 2011, Betty White received a nomination for Favorite TV Guest Star at the 37th People's Choice Awards. Yvette Nicole Brown won the 2011 Gracie Allen Award\", 'Yvette Nicole Brown Yvette Nicole Brown (born August 12, 1971) is an American actress', 'Betty White Betty Marion White was born in Oak Park, Illinois']\n=========\nQUESTION: Were either of the women who were nominated for awards for Community born outside the United States?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Were the two anarchists that Oerter met in New York born outside of United States?",
+        "answer": "yes",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Alexander Berkman \\n\\nBerkman was born in Vilna in the Russian Empire (present-day Vilnius, Lithuania) ', 'Sepp Oerter On his arrival at New York he met up with the circle around Emma Goldman, Alexander Berkman, and politically like-minded comrades from Germany.', 'Emma Goldman Emma Goldman (, 1869May 14, 1940) was an anarchist political activist and writer. She played a pivotal role in the development of anarchist political philosophy in North America and Europe in the first half of the 20th century.\\n\\nBorn in Kovno, Russian Empire (now Kaunas, Lithuania)']\n=========\nQUESTION: Were the two anarchists that Oerter met in New York born outside of United States?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When was the award that was given to Yvette Nicole Brown first given out?",
+        "answer": "1975",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Gracie Awards The Gracie Awards ceremony is presented by the Alliance for Women in Media Foundation (AWM), since 1975', 'Community (TV series) Yvette Nicole Brown won the 2011']\n=========\nQUESTION: When was the award that was given to Yvette Nicole Brown first given out?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Was Guajardo or Lagarde older when they joined EMLL?",
+        "answer": "Karloff Lagarde",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Ray Mendoza In EMLL Mendoza struck up a friendship with René Guajardo and Karloff Lagarde out of the ring and a \"partnership in crime', 'René Guajardo Manuel Guajardo Mejorado (January 4, 1933 – May 11, 1992)', 'Karloff Lagarde Carlos Delucio Lagarde (July 27, 1928 – August 31, 2007)']\n=========\nQUESTION: Was Guajardo or Lagarde older when they joined EMLL?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What year was Giant Interactive Entertainment founded?",
+        "answer": "2005 ",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['TT Games The company was established in 2005 ', 'List of Lego video games Former Lego Interactive staff founded company Giant Interactive Entertainment for future Lego game publishing.']\n=========\nQUESTION: What year was Giant Interactive Entertainment founded?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What is the population of the city where Margaret Bacon spent her early childhood?",
+        "answer": "8,398,748",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['New York City The City of New York, usually referred to as either New York City (NYC) or simply New York (NY), is the most populous city in the United States. With an estimated 2018 population of 8,398,748', 'Margaret Hope Bacon Mrs. Bacon spent her early childhood in New York City']\n=========\nQUESTION: What is the population of the city where Margaret Bacon spent her early childhood?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "The year that Debeaumarché was transported from Pantin to Buchenwald, which area was more populated during that time?",
+        "answer": "Pantin\n",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Buchenwald concentration camp Buchenwald (; literally beech forest) was a Nazi concentration camp established on hill near Weimar, Germany, in July 1937', 'Edmond Debeaumarché Fresnes prisoners who were transported by train from Pantin to Buchenwald on 15 August 1944', 'Pantin antin () is a commune in the northeastern suburbs of Paris, France. It is located 6.4 km from the centre of Paris. It is one of the most densely populated municipalities in Europe. I']\n=========\nQUESTION: The year that Debeaumarché was transported from Pantin to Buchenwald, which area was more populated during that time?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How many people live in the city that Taube was born?",
+        "answer": "19,979,477",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Carl Taube Taube was born in New York City', 'New York City with an estimated 19,979,477 people in its 2018 Metropolitan Statistical Area and 22,679,948 residents in its Combined Statistical Area']\n=========\nQUESTION: How many people live in the city that Taube was born?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which of Barker's influences was born first?",
+        "answer": "John Saul",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['J. D. Barker Barker cites Stephen King, Dean Koontz, John Saul, and Neil Gaiman among his influences.', 'Stephen King Stephen Edwin King (born September 21, 1947)', 'John Saul John Saul (born February 25, 1942) ', 'Dean Koontz Dean Ray Koontz (born July 9, 1945)', 'Neil Gaiman Neil Richard MacKinnon Gaiman (; born Neil Richard Gaiman, 10 November 1960)']\n=========\nQUESTION: Which of Barker's influences was born first?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What team was Harry Haddix pitching for?",
+        "answer": "Pittsburgh Pirates",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Félix Mantilla (baseball) On May 26, 1959, in the 13th inning of a game against the Pittsburgh Pirates ', \"Félix Mantilla (baseball) Mantilla ruined Harvey Haddix's bid for a perfect game\", 'Harvey Haddix Harvey Haddix, Jr. (September 18, 1925 – January 8, 1994) was an American professional baseball player and coach. He played in Major League Baseball as a left-handed pitcher with the St. Louis Cardinals (1952–56), Philadelphia Phillies (1956–57), Cincinnati Reds (1958), Pittsburgh Pirates (1959–63)']\n=========\nQUESTION: What team was Harry Haddix pitching for?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Who was the leader of the Communist Party in 1923?",
+        "answer": "Ernst Thälmann",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Communist Party of Germany A new KPD leadership more favorable to the Soviet Union was elected in 1923. This leadership, headed by Ernst Thälmann,', 'Walter Trautzsch He joined the recently formed Communist Party in June 1923']\n=========\nQUESTION: Who was the leader of the Communist Party in 1923?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When was Joan Arches' son born?",
+        "answer": "1433",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Souldern Joan Arches and her husband Sir John Dynham. When their son, John Dynham, 1st Baron Dynham', 'John Dynham, 1st Baron Dynham John Dynham, 1st Baron Dynham (c. 1433–1501)']\n=========\nQUESTION: When was Joan Arches' son born?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Who was in charge of the organization that awarded a universality place to Zambian swimmers for the 2012 Summer Olympics?",
+        "answer": "International Olympic Committee",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['FINA FINA (, ) is the international federation recognised by the International Olympic Committee (IOC) for administering international competition in water sports.', 'Zambia at the 2012 Summer Olympics Swimmers Zane Jordan and Jade Ashleigh Howard qualified for the Games via a universality place awarded by FINA']\n=========\nQUESTION: Who was in charge of the organization that awarded a universality place to Zambian swimmers for the 2012 Summer Olympics?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "In what place did Zambia's entrant for the 2012 London Games 100 metres finish?",
+        "answer": "fifth ",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n[\"Gerald Phiri Phiri made the semi-finals of the 100 metres but did not progress into the final after finishing fifth in the event's second heat.\", \"Zambia at the 2012 Summer Olympics London Games were Gerald Phiri in the men's 100 metres\"]\n=========\nQUESTION: In what place did Zambia's entrant for the 2012 London Games 100 metres finish?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What was Roy Harrod's age when he opposed Mabane for the Labour seat?",
+        "answer": "45",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Roy Harrod Sir Henry Roy Forbes Harrod (13 February 1900 – 8 March 1978)', 'William Mabane, 1st Baron Mabane He lost his seat to Labour in 1945, when he was opposed by an official Liberal candidate, Roy Harrod']\n=========\nQUESTION: What was Roy Harrod's age when he opposed Mabane for the Labour seat?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which state was the team located where Sim's was drafted into the NBA in 1981?",
+        "answer": "Colorado ",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n[\"Willie Sims (basketball) Sims was drafted in 1981 by the NBA's Denver Nuggets\", 'Denver Nuggets  The Nuggets play their home games at Pepsi Center, which they share with the Colorado Avalanche', 'Denver Nuggets The Denver Nuggets are an American professional basketball team based in Denver. ']\n=========\nQUESTION: Which state was the team located where Sim's was drafted into the NBA in 1981?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How long had the Great Slav Rising been occurring when Otto III appointed Eckard I, Margrave of Meissen to succeed Margrave Rikdag?",
+        "answer": "2",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Great Slav Rising The Great Slav Rising in 983 was an uprising of the Polabian Slavs (Wends), mainly Lutici and Obotrite tribes living east of the Elbe River in modern north-east Germany.', 'Eckard I, Margrave of Meissen In 985 Otto III appointed him to succeed Margrave Rikdag in Meissen, following severe Saxon setbacks against the Slavic Lutici tribes during the Great Slav Rising']\n=========\nQUESTION: How long had the Great Slav Rising been occurring when Otto III appointed Eckard I, Margrave of Meissen to succeed Margrave Rikdag?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What is the smallest solar system object that can be seen with medium-size binoculars?",
+        "answer": "Pallas",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n[\"Ceres (dwarf planet) With a diameter of 945 km, Ceres is both the largest of the asteroids and the only unambiguous dwarf planet inside Neptune's orbit.\", 'Binoculars reasonably detectable with medium-size binoculars, including larger craters on the Moon; the dim outer planets Uranus and Neptune; the inner \"minor planets\" Ceres, Vesta and Pallas; Saturn\\'s largest moon Titan; and the Galilean moons of Jupiter.', '2 Pallas Pallas (minor-planet designation: 2 Pallas) is the second asteroid to have been discovered (after Ceres), and is one of the largest asteroids in the Solar System. With an estimated 7% of the mass of the asteroid belt, it is the third-most-massive asteroid, being 10–30% less massive than Vesta. I']\n=========\nQUESTION: What is the smallest solar system object that can be seen with medium-size binoculars?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which artist who sang backing vocal with Merman on the Decca issued LP is the oldest?",
+        "answer": "Dick Haymes",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Call Me Madam Decca issued a 10-inch LP featuring Merman singing some of her songs, accompanied by arranger-conductor Gordon Jenkins and His Orchestra and Chorus, with vocalizing by Dick Haymes (who joined Merman in the show\\'s biggest hit, \"You\\'re Just in Love\", their single reaching Billboard magazine\\'s number 30 for a week) and Eileen Wilson (who sang \"It\\'s a Lovely Day Today\" with Haymes)', 'Eileen Wilson Eileen Wilson (born Eileen Eshelman January 15, 1923 in San Diego, California - died September 9, 2018 in Everett, Washington) ', 'Dick Haymes Richard Benjamin Haymes (September 13, 1918 – March 28, 1980)']\n=========\nQUESTION: Which artist who sang backing vocal with Merman on the Decca issued LP is the oldest?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which of the universities that Gallagher attended was founded first?",
+        "answer": " George Washington University",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Columbus School of Law Catholic University of America began offering instruction in law in 1895 as part of its decision to open \"faculties for the laity.\"', 'George R. Gallagher He graduated from George Washington University and the Columbus School of Law at the Catholic University of America.', 'George Washington University The George Washington University (GW or GWU) is a private research university in Washington, D.C. It was chartered in 1821']\n=========\nQUESTION: Which of the universities that Gallagher attended was founded first?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which of The Cars' albums from the 1980s was the most commercially successful?",
+        "answer": "\n\nGreatest Hits ",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['The Cars discography Their next album, Shake It Up (1981)', 'The Cars discography Their final album before their breakup, Door to Door (1987)', \"Panorama (The Cars album) Panorama is the third studio album by American new wave band the Cars, released in 1980.\\n\\nBackground.The record marked a change from the upbeat pop rock and hard rock of the group's previous albums, representing a more aggressive and experimental sound. It was not as commercially successful as the Cars' previous or subsequent albums (until 1987's Door to Door)\", 'The Cars discography Their next album, Shake It Up (1981), fared better commercially, going platinum by the end of the year ', 'Greatest Hits (The Cars album) Greatest Hits is a compilation album by the new wave rock band the Cars. It was released in October 1985 on Elektra Records. \"Tonight She Comes\", a previously unreleased song, and a remix of \"I\\'m Not the One\" were issued as singles to support this greatest hits package. The album was a commercial success, going six-times platinum.', 'The Cars discography Their third album, Panorama, was released in 1980.', 'The Cars discography Their Greatest Hits album, released later that year']\n=========\nQUESTION: Which of The Cars' albums from the 1980s was the most commercially successful?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What is the home stadium of the club that Perić debuted for at the age of 18?",
+        "answer": "Čair Stadium",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['FK Radnički Niš The home ground of Radnički Niš is the Čair Stadium', 'Miloš Perić Perić debuted for the first team of Radnički Niš at the age of 18']\n=========\nQUESTION: What is the home stadium of the club that Perić debuted for at the age of 18?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How old was Pierre Dejussieu-Pontcarral when he marched with Debeaumarché down the Champs-Élysées?",
+        "answer": "47",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Edmond Debeaumarché e. On 1 May 1945 he marched', 'Edmond Debeaumarché On 1 May 1945 he marched down the Champs-Élysées alongside fellow Buchenwald-captive Pierre Dejussieu-Pontcarral.', 'Pierre Dejussieu-Pontcarral Pierre Dejussieu-Pontcarral (14 February 1898,']\n=========\nQUESTION: How old was Pierre Dejussieu-Pontcarral when he marched with Debeaumarché down the Champs-Élysées?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which of the first three teams Williams played for is the oldest?",
+        "answer": "Coventry City",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Cradley Town F.C. Cradley Town Football Club ', 'John Williams (footballer, born 1968) Williams started his footballing career at his local club Cradley Town in 1990. After impressing in the lower leagues he attracted the attention of Football League sides and joined Welsh side Swansea City in 1991. After having a decent season with Swansea he move on up to Coventry City', 'Swansea City A.F.C. wansea City A.F.C.\\n\\nSwansea City Association Football Club (; ) is a Welsh professional football club based in Swansea, Wales that plays in the Championship, the second tier of English football. The club was founded in 1912 ', 'Coventry City F.C. Coventry City formed as Singers F.C. in 1883 f', 'Cradley Town F.C. was established in 1970 ']\n=========\nQUESTION: Which of the first three teams Williams played for is the oldest?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How many months after the Piccadily line was created did it join with the London Underground's District line?",
+        "answer": "1",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n[\"Earl's Court which eventually became London Underground's District Line and was joined after 1907 by the Piccadilly line\", 'Piccadilly line  the GNP&BR was formally opened on 15 December 1906']\n=========\nQUESTION: How many months after the Piccadily line was created did it join with the London Underground's District line?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How big is the place Smith was born?",
+        "answer": "70.82 sqmi",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Izzy Slapawitz Smith was born and raised in Brooklyn, New York.', 'Brooklyn \\n\\nWith a land area of 70.82 sqmi']\n=========\nQUESTION: How big is the place Smith was born?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How many years after the Venetian Republic was established was Palmanova founded?",
+        "answer": "896",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Palmanova On 7 October 1593, the superintendent of the Venetian Republic founded a revolutionary new kind of settlement: Palmanova', 'Republic of Venice The Republic of Venice (; ) or Venetian Republic (; ), traditionally known as La Serenissima (; ; ), was a sovereign state and maritime republic in what is now northeastern Italy. It lasted from 697 AD until 1797 AD.']\n=========\nQUESTION: How many years after the Venetian Republic was established was Palmanova founded?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Who founded the company who manufactures the camera Marc used for his time-lapse project?",
+        "answer": "Edwin H. Land",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Polaroid Corporation The company was founded in 1937 by Edwin H. Land', 'Marc Tasman Tasman is most well known for his time-lapse photography piece completed in 2009. Here he made a']\n=========\nQUESTION: Who founded the company who manufactures the camera Marc used for his time-lapse project?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Is the country at the southern end of the fish's range a democracy?",
+        "answer": "yes",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Cocinero ranging', 'Cocinero to Peru in the south', 'Peru Peru is a unitary presidential representative democratic republic']\n=========\nQUESTION: Is the country at the southern end of the fish's range a democracy?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "In what country is Rynek Glowny located in?",
+        "answer": "Poland",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Districts of Kraków It features the centrally located Rynek Główny, or Main Square, the largest medieval town square of any European city.', 'Main Square, Kraków The main square ( ) of the Old Town of Kraków, Lesser Poland, is the principal urban space located at the center of the city.']\n=========\nQUESTION: In what country is Rynek Glowny located in?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When did the pitcher who Bay hit a grand slam off of in September retire?",
+        "answer": "2015 ",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Jason Bay On September 2, Bay hit a grand slam off of Miami Marlins pitcher Mark Buehrle', 'Mark Buehrle He finished the 2015 season']\n=========\nQUESTION: When did the pitcher who Bay hit a grand slam off of in September retire?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Who founded the club that issued many of Booth's pamphlets?",
+        "answer": "Cyrus McCormick, Robert Todd Lincoln, Daniel Burnham, William D. Boyce, and Charles D. Barney.",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Union League \\n\\nThe Union Leagues were quasi-secretive, men’s clubs established during the American Civil Wa', \"Mary Louise Booth Documents forwarded to her by French friends of the Union were translated and published in pamphlets, issued by the Union League Club, or printed in the New York journals. Booth translated Henri Martin's History of France.\", 'Union League Notable members.Famous historical members of the League in Philadelphia include Cyrus McCormick, Robert Todd Lincoln, Daniel Burnham, William D. Boyce, and Charles D. Barney']\n=========\nQUESTION: Who founded the club that issued many of Booth's pamphlets?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How old was Stephen Geary when the cemetary was opened?",
+        "answer": "43",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n[\"Earl's Court The moving spirit behind the project was the engineer, Stephen Geary\", 'Stephen Geary Stephen Geary (1797 – 28 August 1854)', \"Earl's Court it opened in 1840\"]\n=========\nQUESTION: How old was Stephen Geary when the cemetary was opened?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "In what city was Joan Arches' son born?",
+        "answer": " Nutwell",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Souldern Joan Arches and her husband Sir John Dynham. When their son, John Dynham, 1st Baron Dynham', 'John Dynham, 1st Baron Dynham John Dynham, 1st Baron Dynham (c. 1433–1501) of Nutwell in the parish of Woodbury and of Hartland, both in Devon, was an English peer and politician. He served as Lord High Treasurer of England and Lord Chancellor of Ireland. He was one of the few men to have served as councillor to Kings Edward IV, Richard III and Henry VII and was trusted by all of them.\\n\\nOrigins.He was born at Nutwell']\n=========\nQUESTION: In what city was Joan Arches' son born?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How old was the person Marc talked about time-lapse photography with when he completed his 10 year project?",
+        "answer": "63",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Mark Metcalf Mark Metcalf (born March 11, 1946) ', 'Marc Tasman Tasman is most well known for his time-lapse photography piece completed in 2009. Here he made a Polaroid instant film self-portrait every day for ten years and one day', 'Marc Tasman Tasman discussed with Mark Metcalf how the medium also seemed fitting to when dealing with conceptual issues of memory and storytelling.']\n=========\nQUESTION: How old was the person Marc talked about time-lapse photography with when he completed his 10 year project?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Are there any colleges in the suburb where Terri grew up?",
+        "answer": "no",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Grovetown, Georgia Grovetown is a city in Columbia County, Georgia, United States', 'Terri Gibbs raised in the Augusta, Georgia, suburb of', 'Grovetown, Georgia Schools.Grovetown High School, Grovetown Middle School, Columbia Middle School, Grovetown Elementary School, Brookwood Elementary School, Cedar Ridge Elementary School, and Euchee Creek Elementary School serve the city.']\n=========\nQUESTION: Are there any colleges in the suburb where Terri grew up?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When was the person born whom Smith co-founded a fan club for?",
+        "answer": "February 8, 1918",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Izzy Slapawitz Around 1971, Smith also co-founded an unofficial fan club for Freddie Blassie', 'Freddie Blassie Frederick Kenneth Blassie (February 8, 1918 – June 2, 2003)']\n=========\nQUESTION: When was the person born whom Smith co-founded a fan club for?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which actor is older - the actor that plays Ian Beale, or the actor that plays Phil Mitchell?",
+        "answer": "Steve McFadden",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Steve McFadden Steve Robert McFadden (né Reid, born 20 March 1959)', 'EastEnders in popular culture A short video clip shows actor Adam Woodyatt (who portrays the character of Ian Beale) being comforted by colleague Steve McFadden (who portrays the character Phil Mitchell)', 'Adam Woodyatt Adam Brinley Woodyatt (born 28 June 1968)']\n=========\nQUESTION: Which actor is older - the actor that plays Ian Beale, or the actor that plays Phil Mitchell?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How old was Geare when he led privateers on the Margaret and John?",
+        "answer": "25",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['John Watts (merchant) In 1590 the same ship was one of a fleet of merchantmen coming home from the Mediterranean, which successfully fought and repelled the Spanish galleys near Cadiz. Although Watts was not on board, throughout the war he equipped and financed privateers led by Michael Geare, William Lane and Christopher Newport.', 'Michael Geare Sir Michael Geare (b. 1565-?) ', 'John Watts (merchant) n. In 1590 ']\n=========\nQUESTION: How old was Geare when he led privateers on the Margaret and John?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How many years after the founding of Pixar was the movie A Bug's Life created?",
+        "answer": "19",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Pixar Pixar began in 1979 as part of the Lucasfilm computer division', \"Patrick Lin (cinematographer) t Pixar since he first joined in September 1997 as a layout artist on A Bug's Life (1998).\"]\n=========\nQUESTION: How many years after the founding of Pixar was the movie A Bug's Life created?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How old was Lutteroth when EMLL was founded?",
+        "answer": "36",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Salvador Lutteroth Salvador Lutteroth (March 21, 1897 – September 5, 1987;', 'Consejo Mundial de Lucha Libre The promotion was previously known as Empresa Mexicana de Lucha Libre (EMLL) (Mexican Wrestling Enterprise). Founded in 1933', \"Ray Mendoza In 1956 Mendoza began working for Salvador Lutteroth's Empresa Mexicana de Lucha Libre (EMLL),\"]\n=========\nQUESTION: How old was Lutteroth when EMLL was founded?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How long had Elitzur Netanya been a team before Sims began playing for them?",
+        "answer": "0",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Willie Sims (basketball) From 1985 until 1987 he played for Elitzur Netanya', 'Elitzur Netanya B.C. Elizur Netanya was promoted to the first league in 1985.']\n=========\nQUESTION: How long had Elitzur Netanya been a team before Sims began playing for them?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Of the battles that Yermolov served in during the 1805 campaign, which occurred first?",
+        "answer": "The Battle of Amstetten",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Battle of Amstetten The Battle of Amstetten was a minor engagement during the War of the Third Coalition between the First French Empire and the alliance of Austria and Russia. It occurred on 5 November 1805', 'Aleksey Petrovich Yermolov Yermolov served in the rear and advance guards and distinguished himself at Amstetten and Austerlitz', 'Battle of Austerlitz The Battle of Austerlitz (2 December 1805/11 Frimaire An XIV FRC),']\n=========\nQUESTION: Of the battles that Yermolov served in during the 1805 campaign, which occurred first?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Was Matthew Fisher's father still alive when Matthew was elected to the National Academy of Sciences?",
+        "answer": "yes",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Michael Fisher Michael Ellis Fisher (born 3 September 1931)', 'Matthew P. A. Fisher He was elected to the American Academy of Arts and Sciences in 2003 and to the National Academy of Sciences in 2012.']\n=========\nQUESTION: Was Matthew Fisher's father still alive when Matthew was elected to the National Academy of Sciences?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How many franchise locations are there of the place where the Terri Gibbs Trio performed?",
+        "answer": "0",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Terri Gibbs She continued to perform locally, later forming a band called the Terri Gibbs Trio, which performed at a', \"Steak and Ale Steak and Ale was founded as an independent restaurant chain in Dallas, Texas, on February 26, 1966, by Norman E. Brinker. On July 29, 2008, the chain's remaining 58 locations closed as part of a chapter 7 bankruptcy proceeding.\\nIn 2014, Bennigan's CEO Paul Mangiamele announced their intended comeback for 2016, but as of November 2019, no locations have opened.\\n\\nIn 2018, Legendary Restaurant Brands kept the Steak and Ale brand alive by adding some of the Steak and Ale signature favorites to the Bennigan's menu in 2018 even though Legendary has yet to open a single Steak and Ale restaurant.\"]\n=========\nQUESTION: How many franchise locations are there of the place where the Terri Gibbs Trio performed?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Out of the two fastest men in the 2018 Rallye Deutschland, which one started racing first?",
+        "answer": "Sébastien Ogier",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['2018 Rallye Deutschland Five-time world champion Sébastien Ogier was the fastest man to finish the day other than the defending rally winner Ott Tänak,', 'Ott Tänak Tänak made his World Rally Championship debut on the 2009 Rally de Portugal', \"Sébastien Ogier Ogier's rally career began in 2005\"]\n=========\nQUESTION: Out of the two fastest men in the 2018 Rallye Deutschland, which one started racing first?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When did the organization start that Smith went to as a child?",
+        "answer": "1952 ",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Izzy Slapawitz A childhood friend claimed that they were the first wrestling fans to bring signs to local World Wide Wrestling Federation house shows.', 'WWE The WWE name also refers to the professional wrestling promotion itself, founded by Jess McMahon and Toots Mondt in 1952']\n=========\nQUESTION: When did the organization start that Smith went to as a child?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which of the teams Williams played for starting in 1997 has won the most championships?",
+        "answer": "Swansea City",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Exeter City F.C. Cups and Trophies.- FA Cup\\n- Quarter-finalists (2): 1930–31, 1980–81\\n- Football League Third Division South Cup\\n- Winners (1): 1933–34\\n- Football League Trophy\\n- Southern Section Finalists (3): 1992–93, 1999–2000, 2010–11\\n- FA Trophy\\n- Semi-finalists (1): 2005–06', 'John Williams (footballer, born 1968) Williams then went on to have a new club every season starting with Exeter City in the 1997–98 season. He went on to play for Cardiff City, York City, Darlington, two seasons with Swansea City his third spell at the club and his final Football League side Kidderminster Harriers.', 'Swansea City A.F.C. - English second tier (currently Football League Championship)\\n- Promoted (1): 1980–81\\n- Play-off winners (1): 2010–11\\n- English third tier (currently Football League One)\\n- Winners (3): 1924–25, 1948–49, 2007–08\\n- Promoted (1): 1978–79\\n- English fourth tier (currently Football League Two)\\n- Winners (1): 1999–2000\\n- Promoted (3): 1969–70, 1977–78, 2004–05\\n- Play-off winners (1): 1987–88\\n- Welsh Football League – Welsh Top Division (Swansea Town/City Reserves) – Record\\n- Winners (12): 1912–13, 1924–25, 1925–26, 1933–34, 1934–35, 1935–36, 1950–51, 1961–62, 1962–63, 1963–64, 1964–65, 1975–76', 'Cardiff City F.C. Cup.FA Cup\\n- Champions: 1926–27\\n- Runners-up: 1924–25, 2007–08\\n\\nFA Charity Shield\\n- Champions: 1927\\n\\nFootball League Cup\\n- Runners-up: 2011–12\\n\\nSouthern Football League Second Division\\n- Champions: 1912–13']\n=========\nQUESTION: Which of the teams Williams played for starting in 1997 has won the most championships?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Is the northernmost location of the fish's range part of the United States of America?",
+        "answer": "no",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Baja California officially the Free and Sovereign State of Baja California (), is a state in Mexico', 'Cocinero anging along the west American coastline from Baja California']\n=========\nQUESTION: Is the northernmost location of the fish's range part of the United States of America?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What year did the adventure-novelist begin his position as secretary to Lord Milner?",
+        "answer": "1901 ",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Lionel George Curtis served as secretary to Lord Milner (a position that had also been held by adventure-novelist John Buchan)', 'John Buchan Buchan entered into a career in diplomacy and government after graduating from Oxford, becoming in 1901 the private secretary to Alfred Milner']\n=========\nQUESTION: What year did the adventure-novelist begin his position as secretary to Lord Milner?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What was the age of Lancaster when he went to Recife?",
+        "answer": "41",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['James Lancaster Sir James Lancaster VI (c. 1554 – 6 June 1618) was a prominent Elizabethan trader and private', \"John Watts (merchant) James Lancaster's expedition to Recife in April 1595\", 'John Watts (merchant)  1595.']\n=========\nQUESTION: What was the age of Lancaster when he went to Recife?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What date did the Journal publish the report of Theresa May appearing on Eastenders?",
+        "answer": "April 1",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n[\"April Fools' Day April Fools' Day or April Fool's Day (sometimes called All Fools' Day) is an annual celebration on April 1\", \"EastEnders in popular culture On April Fools' Day 2019, TheJournal.ie published a report on Prime Minister Theresa May's scheduled appearance on that night's special live episode of EastEnders\"]\n=========\nQUESTION: What date did the Journal publish the report of Theresa May appearing on Eastenders?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How old was Alexander's wife when they got married?",
+        "answer": "13",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n[\"Personal relationships of Alexander the Great Alexander's marriage to\", 'Roxana  in 327 BC, Alexander married Roxana', 'Roxana She was born in c. 340\\xa0BC, though the precise date remains uncertain, and died in c. 310 BC.']\n=========\nQUESTION: How old was Alexander's wife when they got married?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How old was Oliver Humperdink the year Roberston won the NWA Central States Television Championship?",
+        "answer": "32",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['The Missing Link (wrestler) On October 22, 1981, he won the NWA Central States Television Championship', 'Oliver Humperdink John Jay Sutton (January 16, 1949 – March 20, 2011), better known by his ring name Oliver Humperdink']\n=========\nQUESTION: How old was Oliver Humperdink the year Roberston won the NWA Central States Television Championship?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Where was the person whose guard Yermolov served in 1807 born?",
+        "answer": "Kizlyar or Tbilisi ",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Pyotr Bagration Pyotr Bagration (10 July 1765 – 24 September 1812) was a Russian general and prince of Georgian origin, prominent during the Napoleonic Wars.\\n\\nBagration was born in Kizlyar or Tbilisi ', \"Aleksey Petrovich Yermolov The following year, he participated in the campaign in Poland, serving in Prince Bagration's advance guard\"]\n=========\nQUESTION: Where was the person whose guard Yermolov served in 1807 born?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Who was the first guest on Garland's TV series that aired in 1963 and 1964?",
+        "answer": "Donald O'Connor",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Judy Garland She also made record-breaking concert appearances, released eight studio albums, and hosted her own Emmy-nominated television series, The Judy Garland Show (1963–1964).', \"The Judy Garland Show The first episode of The Judy Garland Show aired on September 29, 1963. The show, featuring guest star Donald O'Connor, was the seventh one taped.\"]\n=========\nQUESTION: Who was the first guest on Garland's TV series that aired in 1963 and 1964?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How long did the Battle of Fredericksburg last in total?",
+        "answer": "4",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Stephen H. Weed Promoted to command of all the artillery of the V Corps, his guns were in action at the Battle of Fredericksburg.', 'Battle of Fredericksburg The Battle of Fredericksburg was fought December 11–15, 1862']\n=========\nQUESTION: How long did the Battle of Fredericksburg last in total?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What state did Senator Charles Sumner represent?",
+        "answer": "Massachusetts",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Mary Louise Booth For this work she received praise and encouragement from U.S. President Abraham Lincoln, U.S. Senator Charles Sumner, and other statesmen', 'Charles Sumner Charles Sumner (January 6, 1811\\xa0– March 11, 1874) was an American politician and United States Senator from Massachusetts']\n=========\nQUESTION: What state did Senator Charles Sumner represent?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How old was Roy Chapman Andrews when Peter Kaisen discovered numerous theropod remains in three quarries?",
+        "answer": "39",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Archaeornithomimus n 1923, during the American Museum of Natural History expedition by Roy Chapman Andrews to Inner Mongolia, Peter Kaisen discovered numerous theropod remains in three quarries', 'Roy Chapman Andrews Roy Chapman Andrews (January 26, 1884']\n=========\nQUESTION: How old was Roy Chapman Andrews when Peter Kaisen discovered numerous theropod remains in three quarries?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How old is the person Smith got into an altercation with as a teenager?",
+        "answer": "71",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Izzy Slapawitz As a teenager, Smith had an altercation with Kevin Sullivan', 'Kevin Sullivan (wrestler) Kevin Francis Sullivan (born October 26, 1949)']\n=========\nQUESTION: How old is the person Smith got into an altercation with as a teenager?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which team won the 2010 FIFA World Cup?",
+        "answer": "Spain",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['New Zealand national football team New Zealand qualified for the 2010 FIFA World Cup though exited the competition after the first round despite being the only team not to lose a game during the tournament.', \"New Zealand national football team New Zealand drew all three games and finished third in their group. New Zealand were also the only undefeated team in the entire tournament thanks to Spain's defeat to Switzerland.\", '2010 FIFA World Cup Spain became the eighth nation to win the tournament']\n=========\nQUESTION: Which team won the 2010 FIFA World Cup?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How old was Harrison when he won the Presidency?",
+        "answer": "55",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Benjamin Harrison Benjamin Harrison (August 20, 1833\\xa0– March 13, 1901)', '2000 United States presidential election in Missouri (In 1888, Missouri voted for Grover Cleveland, the incumbent Democrat, who lost to Republican candidate Benjamin Harrison)', '2000 United States presidential election in Missouri In 1888']\n=========\nQUESTION: How old was Harrison when he won the Presidency?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Who led the attackers at the Siege of Kenilworth?",
+        "answer": "Simon de Montfort",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Siege of Kenilworth  The siege was a part of an English civil war fought from 1264 to 1267 by the forces of Simon de Montfort against the Royalist forces led by Prince Edward (later Edward I of England).\\n\\nThe siege was one of few castle attacks to take place during the war.', 'Kenilworth Castle The castle was the subject of the six-month-long Siege of Kenilworth in 1266, thought to be the longest siege in Medieval English history,']\n=========\nQUESTION: Who led the attackers at the Siege of Kenilworth?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which Phillies pitcher played for the club longer?",
+        "answer": "Robin Roberts",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Robin Roberts (baseball) Robin Evan Roberts (September 30, 1926 – May 6, 2010) was a Major League Baseball starting pitcher who pitched primarily for the Philadelphia Phillies (1948–1961)', 'Philadelphia Phillies all-time roster (R) Two of those players have been inducted into the Baseball Hall of Fame: pitcher Eppa Rixey, who was a Phillie for six seasons in two different stints (1912–1917, 1919); and Robin Roberts,']\n=========\nQUESTION: Which Phillies pitcher played for the club longer?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which of Zambia's two swimmers at the 2012 Summer Olympics placed higher?",
+        "answer": "Jade Howard",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Zane Jordan He swam for Zambia at the 2008 Olympics, finishing 65th in the 50 Freestyle and at the 2012 Summer Olympics, finishing 41st in the 100 backstroke.', 'Zambia at the 2012 Summer Olympics Swimmers Zane Jordan and Jade Ashleigh Howard qualified for the Games', \"Jade Howard Jade Howard (born 3 April 1995) is a Zambian swimmer. At the 2012 Summer Olympics, she competed in the Women's 100 metre freestyle, finishing in 39th place overall in the heats\"]\n=========\nQUESTION: Which of Zambia's two swimmers at the 2012 Summer Olympics placed higher?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which of the two teams Sims has played for between 1981 to 1985 has won more championships?",
+        "answer": "Hapoel Tel Aviv B.C.",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Hapoel Tel Aviv B.C. Israeli Cup\\n- Winners (4): 1961–62, 1968–69, 1983–84, 1992–93', 'Maccabi Haifa B.C. - Champions (1): 2012–2013', 'Willie Sims (basketball) Willie Sims, an African-American Jew, played basketball in Israel for Maccabi Haifa B.C. from 1981 to 1983. From 1983 to 1985 he played for Hapoel Tel Aviv B.C.']\n=========\nQUESTION: Which of the two teams Sims has played for between 1981 to 1985 has won more championships?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What age was Dale Russell when the species was placed in the new genus Archaeornithomimus?",
+        "answer": "35",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Archaeornithomimus The species was placed in the new genus Archaeornithomimus by Dale Russell in 1972, making Archaeornithomimus asiaticus the type species of the genus', 'Dale Russell Alan Russell (born 27 December 1937)']\n=========\nQUESTION: What age was Dale Russell when the species was placed in the new genus Archaeornithomimus?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What position did McCain serve both before and after running for President in 2008?",
+        "answer": "senator",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['John McCain who served as a United States senator from Arizona from January 1987 until his death in 2018. ', '2000 United States presidential election in Missouri The state voted for John McCain in 2008']\n=========\nQUESTION: What position did McCain serve both before and after running for President in 2008?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When was the instrument Terri learned to play starting at age 3 invented?",
+        "answer": "1700",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Piano \\n\\nThe piano is an acoustic, stringed musical instrument invented in Italy by Bartolomeo Cristofori around the year 1700', 'Terri Gibbs she learned to play piano at age three']\n=========\nQUESTION: When was the instrument Terri learned to play starting at age 3 invented?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What is the population of the city claimed by Israelis and Palestinians alike?",
+        "answer": "882,700",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Jerusalem In 2016, the population was 882,700', 'Status of Jerusalem both the Israelis and Palestinians claiming Jerusalem as their capital city.']\n=========\nQUESTION: What is the population of the city claimed by Israelis and Palestinians alike?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What branch of government is headquartered at the building where he was posted to in Washington D.C.?",
+        "answer": "United States Department of Defense",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['James N. Post III He was then posted to The Pentagon in Washington, DC,', 'The Pentagon The Pentagon is the headquarters building of the United States Department of Defense']\n=========\nQUESTION: What branch of government is headquartered at the building where he was posted to in Washington D.C.?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What was the name of the first Lego video game developed?",
+        "answer": "Lego Island",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Lego Lego branched out into the video game market in 1997 by founding Lego Media International Limited, and Lego Island was released that year by Mindscape.', 'List of Lego video games Since 1995, 69 commercial video games based on Lego, the construction system produced by The Lego Group, have been released.']\n=========\nQUESTION: What was the name of the first Lego video game developed?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What type of place did Alexander and Roxana have their wedding feast?",
+        "answer": "fortress ",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Personal relationships of Alexander the Great A wedding-feast for the two of them was arranged high on one of the', 'Sogdian Rock The Sogdian Rock or Rock of Ariamazes, a fortress located north of Bactria in Sogdiana (near Samarkand),']\n=========\nQUESTION: What type of place did Alexander and Roxana have their wedding feast?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When did Michael die?",
+        "answer": "11 December 1282",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Byzantine diplomacy In 1282, Michael VIII sponsored a revolt in Sicily against Charles of Anjou called the Sicilian Vespers.', 'Michael VIII Palaiologos Michael VIII Palaiologos or Palaeologus (; 1223 – 11 December 1282) ']\n=========\nQUESTION: When did Michael die?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How long had Central States Wrestling been in business the year Robertson won the NWA Central States Television Championship?",
+        "answer": "33",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['The Missing Link (wrestler) On October 22, 1981, he won the NWA Central States Television Championship', 'Heart of America Sports Attractions The promotion existed from July 1948 until it closed in 1988']\n=========\nQUESTION: How long had Central States Wrestling been in business the year Robertson won the NWA Central States Television Championship?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "In which city did Camilo make his professional debut?",
+        "answer": "New York City",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n[\"Michel Camilo Camilo's emergence as a star in his own right began around 1985, the year he debuted with his trio at Carnegie Hall.\", 'Carnegie Hall Carnegie Hall ( but more commonly ) is a concert venue in Midtown Manhattan in New York City']\n=========\nQUESTION: In which city did Camilo make his professional debut?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When was the person whose guard Yermolov served in 1807 born?",
+        "answer": "10 July 1765",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Pyotr Bagration Pyotr Bagration (10 July 1765 –', \"Aleksey Petrovich Yermolov The following year, he participated in the campaign in Poland, serving in Prince Bagration's advance guard\"]\n=========\nQUESTION: When was the person whose guard Yermolov served in 1807 born?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What were the factions in the 1975 civil war?",
+        "answer": "PLO guerrilla",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n[\"Lebanese Civil War There was great support by Iran during the Lebanese Civil War for Shi'ite factions, Amal Movement and Hezbollah.\", 'Lebanese Civil War  and this is why in later years the PLO guerrilla factions', 'Lebanese Civil War  Fatah and other Palestinian Liberation Organization factions', 'Palestine Liberation Organization In 1975, the increasing tensions between Palestinian militants and Christian militias exploded into the Lebanese Civil War, involving all factions.', 'Lebanese Civil War Some Sunni factions received support from Libya and Iraq', 'Lebanese Civil War The more ideological factions, however, included Popular Front for the Liberation of Palestine (PFLP), and its splinter, the Democratic Front for the Liberation of Palestine (DFLP).']\n=========\nQUESTION: What were the factions in the 1975 civil war?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Were the Patzinaks allied with the Rus?",
+        "answer": "no",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Byzantine diplomacy A Rus threat could be countered by subsidies to the Patzinaks.', 'Byzantine diplomacy A Rus threat could be countered by subsidies to the Patzinaks']\n=========\nQUESTION: Were the Patzinaks allied with the Rus?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "How much time has passed between the completion of Carnegie Hall and Camilo's debut at the same venue?",
+        "answer": "94",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n[\"Michel Camilo Camilo's emergence as a star in his own right began around 1985, the year he debuted with his trio at Carnegie Hall.\", 'Carnegie Hall Designed by architect William Burnet Tuthill and built by philanthropist Andrew Carnegie in 1891,']\n=========\nQUESTION: How much time has passed between the completion of Carnegie Hall and Camilo's debut at the same venue?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Is Amelle Berrabah an original member of The Sugababes?",
+        "answer": "no",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Amelle Berrabah Amelle Berrabah (born 22 April 1984) is an English singer, songwriter and former member of the Sugababes who replaced founding member Mutya Buena', 'Caught in a Moment and Amelle Berrabah, performed \"Caught in a Moment\" at the Sheffield City Hall in March 2006', 'Caught in a Moment The Sugababes performed \"Caught in a Moment']\n=========\nQUESTION: Is Amelle Berrabah an original member of The Sugababes?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What was the rank of the Medal of Honor recipient that Coster-Waldau played in his debut film?",
+        "answer": "master sergeant",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n['Nikolaj Coster-Waldau his debut film role was in the war film Black Hawk Down (2001), playing Medal of Honor recipient Gary Gordon.', 'Gary Gordon Gary Ivan Gordon (30 August 1960\\xa0– 3 October 1993) was a master sergeant in the United States Army ']\n=========\nQUESTION: What was the rank of the Medal of Honor recipient that Coster-Waldau played in his debut film?\n=========\nANSWER: please answer less than 6 words"
+    }
+]

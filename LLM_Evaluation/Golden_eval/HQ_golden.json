@@ -1,0 +1,502 @@
+[
+    {
+        "question": "What Canadian electronic rock band formed in London, Ontario released a DVD directed by Dan Ouellette?",
+        "answer": "The Birthday Massacre",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nBlue is the first DVD by Canadian electronic rock band, The Birthday Massacre.  The title video was directed by Dan Ouellette, who later directed the band's Looking Glass video and has directed and/or done production work for videos by (among others) David Bowie and Android Lust. The Birthday Massacre (abbreviated TBM) is a Canadian band, formed in 1999 in London, Ontario, and currently based in Toronto, Ontario.\n=========\nQUESTION: What Canadian electronic rock band formed in London, Ontario released a DVD directed by Dan Ouellette?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "A Celtic Journey is an album by a singer that was part of what musical ensemble?",
+        "answer": "Celtic Woman",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nA Celtic Journey is an album by Méav Ní Mhaolchatha.  She was one of the original soloists in the musical ensemble Celtic Woman, which has sold over six million albums.\n=========\nQUESTION: A Celtic Journey is an album by a singer that was part of what musical ensemble?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When will the current class of Australian multiple unit cars operated by NSW Trainlink in New South Wales enter service?",
+        "answer": "between 2019 and 2022",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nThe NSW TrainLink Intercity Train Project is an initiative of Transport for New South Wales to procure 512 new carriages to replace NSW TrainLink's Intercity electric multiple unit fleet, freeing some trains for suburban use and the succeeding the entire V Set fleet.  The trains will operate on services from Sydney to Newcastle, Lithgow and Kiama.  The trains are expected to enter service between 2019 and 2022. The V sets are a class of Australian electric multiple unit operated by NSW TrainLink in New South Wales.\n=========\nQUESTION: When will the current class of Australian multiple unit cars operated by NSW Trainlink in New South Wales enter service?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Peter Griffith's granddaughter had her screen debut in what 1999 film?",
+        "answer": "\"Crazy in Alabama\"",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n His daughters Melanie Griffith and Tracy Griffith, and his granddaughter, Dakota Johnson, became notable actresses.  She had her screen debut alongside her mother in the comedy-drama \"Crazy in Alabama\" (1999) and was named Miss Golden Globe in 2006.\n=========\nQUESTION: Peter Griffith's granddaughter had her screen debut in what 1999 film?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What American criminal defense attorney defended an American domestic terrorist who killed two people in the southern United States by bombing?",
+        "answer": "Judy Clare Clarke",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nJudy Clare Clarke (born 1952) is an American criminal defense attorney who has represented several high-profile defendants.  She has negotiated plea agreements that spare her clients the death penalty, as was the case for Eric Rudolph, Ted Kaczynski, and Jared Lee Loughner. Eric Robert Rudolph (born September 19, 1966), also known as the Olympic Park Bomber, is an American domestic terrorist convicted for a series of anti-abortion and anti-gay-motivated bombings across the southern United States between 1996 and 1998, which killed two people and injured over 120 others.\n=========\nQUESTION: What American criminal defense attorney defended an American domestic terrorist who killed two people in the southern United States by bombing?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Who is an American singer, songwriter, actress and LGBT rights activist who released a 1985 song  for the film \"The Goonies\"?",
+        "answer": "Cynthia Ann Stephanie \"Cyndi\" Lauper",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n It was released as a single for the film \"The Goonies\". Cynthia Ann Stephanie \"Cyndi\" Lauper (born June 22, 1953) is an American singer, songwriter, actress and LGBT rights activist.\n=========\nQUESTION: Who is an American singer, songwriter, actress and LGBT rights activist who released a 1985 song  for the film \"The Goonies\"?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Drive Angry is a 2011 American fantasy action film starring Nicolas Cage and Amber Laura Heard, an American actress, who made her film debut in which year?",
+        "answer": "2004",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nDrive Angry is a 2011 American fantasy action film starring Nicolas Cage and Amber Heard, and directed by Patrick Lussier.  She made her film debut in 2004 in the sports drama \"Friday Night Lights\".\n=========\nQUESTION: Drive Angry is a 2011 American fantasy action film starring Nicolas Cage and Amber Laura Heard, an American actress, who made her film debut in which year?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which alternative rock band did the singer of \"Violently Happy\" used to be a part of?",
+        "answer": "The Sugarcubes",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n\"Violently Happy\" is a song by Icelandic singer Björk, released as the fifth and final single from her album \"Debut\" in 1994. Björk Guðmundsdóttir (] , born 21 November 1965), known as Björk ( ), is an Icelandic singer, songwriter, actress, record producer, and DJ.  She initially became known as the lead singer of the alternative rock band The Sugarcubes, whose 1987 single \"Birthday\" was a hit on US and UK indie stations and a favorite among music critics.\n=========\nQUESTION: Which alternative rock band did the singer of \"Violently Happy\" used to be a part of?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Eliza Doolittle was first presented on stage in what year?",
+        "answer": "1913",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n Theatre roles include Eliza Doolittle in \"Pygmalion\", Adriana in \"The Comedy of Errors\", Olivia in \"Twelfth Night\", Lady Chatterley in \"Lady Chatterley's Lover\", Rita in \"Educating Rita\" and Beverley in \"Abigail's Party\". Pygmalion is a play by George Bernard Shaw, named after a Greek mythological figure.  It was first presented on stage to the public in 1913.\n=========\nQUESTION: Eliza Doolittle was first presented on stage in what year?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Robert Lincoln Patterson served during World War I in a branch of the Armed Forces that dates its institutional inception to what year?",
+        "answer": "1775",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nRobert Lincoln Patterson served in the California legislature and during World War I he served in the United States Army.  The United States Army considers itself descended from the Continental Army, and dates its institutional inception from the origin of that armed force in 1775.\n=========\nQUESTION: Robert Lincoln Patterson served during World War I in a branch of the Armed Forces that dates its institutional inception to what year?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What profession is shared by Paul Thomas Anderson and Russell DeGrazier?",
+        "answer": "filmmaker",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nPaul Thomas Anderson (born June 26, 1970) also known as P.T. Anderson, is an American filmmaker. Russell DeGrazier is an American writer, director, producer and actor.\n=========\nQUESTION: What profession is shared by Paul Thomas Anderson and Russell DeGrazier?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "The creator of the Volta Laboratory and Bureau was credited with patenting what first? ",
+        "answer": "telephone",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nThe Volta Laboratory (also known as the \"Alexander Graham Bell Laboratory\", the \"Bell Carriage House\" and the \"Bell Laboratory\") and the Volta Bureau were created in Georgetown, Washington, D.C. by Alexander Graham Bell. Alexander Graham Bell (March 3, 1847 – August 2, 1922) was a Scottish-born scientist, inventor, engineer, and innovator who is credited with patenting the first practical telephone and founding the American Telephone and Telegraph Company (AT&T) in 1885.\n=========\nQUESTION: The creator of the Volta Laboratory and Bureau was credited with patenting what first? \n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "St. Albert is a city in Alberta, in which country, on the Sturgeon River northwest of the City of Edmonton, is the capital city of the Canadian province of Alberta?",
+        "answer": "Canada",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nSt. Albert is a city in Alberta, Canada, on the Sturgeon River northwest of the City of Edmonton. Edmonton is the capital city of the Canadian province of Alberta.\n=========\nQUESTION: St. Albert is a city in Alberta, in which country, on the Sturgeon River northwest of the City of Edmonton, is the capital city of the Canadian province of Alberta?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What is the nationality of the Sprinter in the theatrical release documentary I Am Bolt ?",
+        "answer": "Jamaican",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n He composed the music for BBC2's comedy-series Quacks, Usain Bolt's theatrical-release documentary I Am Bolt, Mo Farah's documentary \"No Easy Mile\", and John Hurt's final movie My Name is Lenny Ian also notably assisted composer Joe Kraemer on his score for . Usain St Leo Bolt ( ; born 21 August 1986) is a retired Jamaican sprinter.\n=========\nQUESTION: What is the nationality of the Sprinter in the theatrical release documentary I Am Bolt ?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Are Daphne and Jenůfa both operas?",
+        "answer": "yes",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nDaphne, Op. 82, is an opera in one act by Richard Strauss, subtitled \"Bucolic Tragedy in One Act\". Jenůfa    (Její pastorkyňa, \"Her Stepdaughter\" in Czech) is an opera in three acts by Leoš Janáček to a Czech libretto by the composer, based on the play \"Její pastorkyňa\" by Gabriela Preissová.\n=========\nQUESTION: Are Daphne and Jenůfa both operas?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which NBA All-Star MVP also played for the Michigan State Spartans in 1979?",
+        "answer": "Magic Johnson",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n The 1979 National Championship team was coached by Jud Heathcote and included tournament MVP Magic Johnson, Greg Kelser and Jay Vincent.  Johnson retired abruptly in 1991 after announcing that he had contracted HIV, but returned to play in the 1992 All-Star Game, winning the All-Star MVP Award.\n=========\nQUESTION: Which NBA All-Star MVP also played for the Michigan State Spartans in 1979?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What are The Bohemian Girl and Der Kaiser von Atlantis?",
+        "answer": "The Bohemian Girl is a ballad opera",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nThe Bohemian Girl is a ballad opera composed by Michael William Balfe with a libretto by Alfred Bunn. Der Kaiser von Atlantis oder Die Tod-Verweigerung (\"The Emperor of Atlantis or The Disobedience of Death\") is a one-act opera by Viktor Ullmann with a libretto by Peter Kien.\n=========\nQUESTION: What are The Bohemian Girl and Der Kaiser von Atlantis?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Who opened Dorin Park Special School and former football player?",
+        "answer": "Phil Neville",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n In September 2008, building work culminated on a new Community Resource Centre, which was later officially opened in 2010 by Everton FC captain Phil Neville. Philip John Neville (born 21 January 1977) is an English football former football player and current television pundit for Sky Sports, who is the co-owner of Salford City.\n=========\nQUESTION: Who opened Dorin Park Special School and former football player?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Gregory Blaxland is credited with what achievement?",
+        "answer": "1813 crossing of the Blue Mountains",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nGregory Blaxland (17 June 1778 – 1 January 1853) was an English pioneer farmer and explorer in Australia, noted especially for initiating and co-leading the first successful crossing of the Blue Mountains by European settlers. The 1813 crossing of the Blue Mountains was the expedition led by Gregory Blaxland, William Lawson and William Charles Wentworth, which became the first successful crossing of the Blue Mountains in New South Wales by European settlers.\n=========\nQUESTION: Gregory Blaxland is credited with what achievement?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which Hawaii Democrat, and first American Samoan of the Unites States Congress, sponsored the \"Ending Federal Marijuana Prohibition Act of 2017\"? ",
+        "answer": "Tulsi Gabbard",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nHouse Resolution 1227, \"Ending Federal Marijuana Prohibition Act of 2017\", is a U.S. United States House resolution introduced during the 115th Congress.  It was initially sponsored by Thomas Garrett Jr., a Virginia Republican, and cosponsored by Scott Taylor, also a Virginia Republican, and Tulsi Gabbard, a Hawaii Democrat. Tulsi Gabbard ( , born April 12, 1981) is an American politician and member of the Democratic Party who has been the United States Representative for Hawaii's 2nd congressional district since 2013.  Elected in 2012, she is the first American Samoan and the first Hindu member of the United States Congress.\n=========\nQUESTION: Which Hawaii Democrat, and first American Samoan of the Unites States Congress, sponsored the \"Ending Federal Marijuana Prohibition Act of 2017\"? \n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What year was the Disney movie starring Telly Blackwood released?",
+        "answer": "1997",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nTelly \"Leatherface\" Blackwood (born 1975) is a professional wrestler and actor.  In his early years, his work included acting roles in \"Dr. Quinn Medicine Woman\" and Walt Disney's \"Under Wraps\". Under Wraps is a 1997 television film, and is considered to be the first Disney Channel Original Movie (DCOM) by the Disney Channel.\n=========\nQUESTION: What year was the Disney movie starring Telly Blackwood released?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "The Harry Winokur owned Mister Donut chain was was bought out by which large coffee and baked good chain in 1990?",
+        "answer": "Dunkin' Donuts",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nHarry Winokur created the Mister Donut chain of doughnut shops.  The chain grew to include 550 shops before being bought out by the parent company of Dunkin' Donuts in 1990.  Since its founding, the company has grown to become one of the largest coffee and baked goods chains in the world, with more than 12,000 restaurants in 36 countries.\n=========\nQUESTION: The Harry Winokur owned Mister Donut chain was was bought out by which large coffee and baked good chain in 1990?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Were Natalia Ginzburg and Hart Crane both poets?",
+        "answer": "no",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nNatalia Ginzburg, (] ; ] ; 14 July 1916 – 7 October 1991), was an Italian author whose work explored family relationships, politics during and after the Fascist years and World War II, and philosophy.  She wrote novels, short stories and essays, for which she received the Strega Prize and Bagutta Prize. Harold Hart Crane (July 21, 1899 – April 27, 1932) was an American poet.\n=========\nQUESTION: Were Natalia Ginzburg and Hart Crane both poets?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Dawson's Weekly is a seven-part series of half-hour comedy plays, starring which English comedian, actor, writer, and presenter, who is best remembered for his deadpan style, curmudgeonly persona and jokes about his mother-in-law and wife?",
+        "answer": "Les Dawson",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nDawson's Weekly is a seven-part series of half-hour comedy plays, written by Ray Galton and Alan Simpson, and starring Les Dawson. Leslie \"Les\" Dawson, Jr. (2 February 1931 – 10 June 1993) was an English comedian, actor, writer, and presenter, who is best remembered for his deadpan style, curmudgeonly persona and jokes about his mother-in-law and wife.\n=========\nQUESTION: Dawson's Weekly is a seven-part series of half-hour comedy plays, starring which English comedian, actor, writer, and presenter, who is best remembered for his deadpan style, curmudgeonly persona and jokes about his mother-in-law and wife?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "In which country was the company that released \"Extracts from the Film A Hard Day's Night\" first founded?",
+        "answer": "Germany",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nExtracts from the Film A Hard Day's Night is an EP by the Beatles released on 4 November 1964 by Parlophone (catalogue number GEP 8920.) Parlophone Records Limited (also known as Parlophone Records and Parlophone) is a German-British major record label founded in Germany in 1896 by the Carl Lindström Company as Parlophon.\n=========\nQUESTION: In which country was the company that released \"Extracts from the Film A Hard Day's Night\" first founded?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": " Sir William Ewart Bell  was the president of a managing rugby union that has it's home ground at which stadium ?",
+        "answer": "Aviva Stadium",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n He was President of the Irish Rugby Football Union (IRFU) and Chair of the 1995 Rugby World Cup.  The IRFU has its head office at 10/12 Lansdowne Road and home ground at Aviva Stadium, where adult men's Irish rugby union international matches are played.\n=========\nQUESTION:  Sir William Ewart Bell  was the president of a managing rugby union that has it's home ground at which stadium ?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "The team that lost to the team coached by Steve Prohm in the second round 2015-16 season's NCAA tournament was coached by whom?",
+        "answer": "Chris Beard",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n The Trojans, led by first-year head coach Chris Beard, played their home games at the Jack Stephens Center in Little Rock, Arkansas and were members of the Sun Belt Conference.  The Cyclones were coached by Steve Prohm, who was in his 1st season.\n=========\nQUESTION: The team that lost to the team coached by Steve Prohm in the second round 2015-16 season's NCAA tournament was coached by whom?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": " Hum Tum stars which Indian film actor and producer born on August 16, 1970?",
+        "answer": "Saif Ali Khan",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n The movie stars Saif Ali Khan and Rani Mukerji in the lead roles. Saif Ali Khan (] ; born Sajid Ali Khan on 16 August 1970) is an Indian film actor and producer.\n=========\nQUESTION:  Hum Tum stars which Indian film actor and producer born on August 16, 1970?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "The 2009 United States Open Championship was held in what county?",
+        "answer": "Nassau",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nThe 2009 United States Open Championship was the 109th U.S. Open, held June 18–22 on the Black Course of Bethpage State Park on Long Island, in Farmingdale, New York. The Incorporated Village of Farmingdale is an incorporated village on Long Island within the Town of Oyster Bay in Nassau County, New York, in the United States.\n=========\nQUESTION: The 2009 United States Open Championship was held in what county?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which artist who released the album \"Hello, I'm Dolly\" has collaborated with Kathy Mattea?",
+        "answer": "Dolly Parton",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n She has collaborated with Dolly Parton, Michael McDonald, Tim O'Brien, and her longtime husband, Jon Vezner.  After achieving success as a songwriter for others, Dolly Parton made her album debut in 1967, with her album \"Hello, I'm Dolly\".\n=========\nQUESTION: Which artist who released the album \"Hello, I'm Dolly\" has collaborated with Kathy Mattea?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "The Logan & Southern Subdivision is a railroad line owned by CSX Transportation in the U.S. State of West Virginia, it's a state located in which region of the Southern United States?",
+        "answer": "Appalachian",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nThe Logan & Southern Subdivision is a railroad line owned by CSX Transportation in the U.S. State of West Virginia. West Virginia is a state located in the Appalachian region of the Southern United States.\n=========\nQUESTION: The Logan & Southern Subdivision is a railroad line owned by CSX Transportation in the U.S. State of West Virginia, it's a state located in which region of the Southern United States?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What does Dunn's Famous Deli and Steakhouse serve is a raw meat is brined, partially dried, seasoned with herbs and spices, then smoked and steamed?",
+        "answer": "Pastrami",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nDunn's Famous Deli and Steakhouse is a Montreal-style smoked meat, Pastrami and Cheesecake restaurant chain founded in Montreal, Quebec, Canada by Myer Dunn. Pastrami (Turkish: \"pastırma\" , Romanian: \"pastramă\", Bulgarian: \"пастърма\") is a meat product usually made from beef, and sometimes from pork, mutton or turkey.\n=========\nQUESTION: What does Dunn's Famous Deli and Steakhouse serve is a raw meat is brined, partially dried, seasoned with herbs and spices, then smoked and steamed?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What country are NBCUniversal Archives and 30 Rockefeller Plaza operated in?",
+        "answer": "United States",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nNBCUniversal Archives offers access to years worth of footage from NBC and its owned-and-operated stations.  With headquarters in 30 Rockefeller Plaza, the Archives contain everything from rare, award-winning footage, to 3D graphics produced by NBC Artworks. 30 Rockefeller Plaza is an American Art Deco skyscraper that forms the centerpiece of Rockefeller Center in Midtown Manhattan, New York City.  The building is most famous for housing the NBC television network headquarters.  At 850 ft high, the 70-story building is the 14th tallest in New York City and the 39th tallest in the United States.  It stands 400 feet (122 m) shorter than the Empire State Building.\n=========\nQUESTION: What country are NBCUniversal Archives and 30 Rockefeller Plaza operated in?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "The Montana Freemen engaged in a standoff with the FBI, Catherine Wessinger was a professor that served as a consultant to federal law enforcement during this, at which school did she work?",
+        "answer": "Loyola University New Orleans",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nCatherine Wessinger is a professor of religious studies at Loyola University New Orleans with a main research focus on millennialism, new religions, women and religion and religions of India.  Wessinger is co-general editor of and served as a consultant to federal law enforcement during the Montana Freemen standoff.  They became the center of public attention in 1996 when they engaged in a prolonged armed standoff with agents of the Federal Bureau of Investigation.\n=========\nQUESTION: The Montana Freemen engaged in a standoff with the FBI, Catherine Wessinger was a professor that served as a consultant to federal law enforcement during this, at which school did she work?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "As Far as I Can See... included the singer and record producer who is of what nationality?",
+        "answer": "English",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n The lineup includes three of the band's original members: Rod Argent, Colin Blunstone and Chris White, with fourth original member Paul Atkinson also serving as A&R for the record. Christopher Taylor \"Chris\" White (born 7 March 1943) is an English singer, songwriter, musician, and record producer.\n=========\nQUESTION: As Far as I Can See... included the singer and record producer who is of what nationality?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "\"Woman Don't You Cry For Me\" was released in what month?",
+        "answer": "November",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n\"Woman Don't You Cry For Me\" is a song by English musician George Harrison, released as the opening track of his 1976 album \"Thirty Three & 1/3\". Thirty Three & ⅓ (stylised as Thirty Three & 1/ on the album cover) is the seventh studio album by English musician George Harrison, released in November 1976.\n=========\nQUESTION: \"Woman Don't You Cry For Me\" was released in what month?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "\"Everybody's on the Run\" is a song from an album that was the first studio release since it's frontman departed from Oasis in what year?",
+        "answer": "2009",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n\"Everybody's on the Run\" is a song by the English rock band Noel Gallagher's High Flying Birds, written by frontman Noel Gallagher from their self-titled debut album \"Noel Gallagher's High Flying Birds\". Noel Gallagher's High Flying Birds is the self-titled debut studio album by the English rock band Noel Gallagher's High Flying Birds.  Released on 17 October 2011, it is the first studio album released by eponymous frontman Noel Gallagher since his departure from Oasis in August 2009.\n=========\nQUESTION: \"Everybody's on the Run\" is a song from an album that was the first studio release since it's frontman departed from Oasis in what year?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Where is the mobile company named Tecno Mobile, who created HiOS, located?",
+        "answer": "Hong Kong",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nHiOS, is a customized version of Android mobile operating system developed by Hong Kong based mobile phone company Tecno Mobile. TECNO Mobile is a Chinese mobile phone manufacturer.\n=========\nQUESTION: Where is the mobile company named Tecno Mobile, who created HiOS, located?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "The Cirrus SR22 aircraft was built by a company founded in what year?",
+        "answer": "1984",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nThe Cirrus SR22 is a single-engine four- or five-seat composite aircraft built from 2001 by Cirrus Aircraft of Duluth, Minnesota. The Cirrus Aircraft Corporation (formally Cirrus Design Corporation) is an aircraft manufacturer that was founded in 1984 by Alan and Dale Klapmeier to produce the VK-30 kit aircraft.\n=========\nQUESTION: The Cirrus SR22 aircraft was built by a company founded in what year?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which dog breed is used as a gundog in hunting, the Seppala Siberian Sleddog or the Wirehaired Pointing Griffon?",
+        "answer": "The Wirehaired Pointing Griffon",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nA rare working dog breed, the Seppala Siberian Sleddog is developed for the purpose of pulling a sled in cold country. The Wirehaired Pointing Griffon (also called the Korthals Griffon , and the Griffon d'arrêt à poil dur Korthals in France and Quebec) is a breed of dog used in hunting as a gundog.\n=========\nQUESTION: Which dog breed is used as a gundog in hunting, the Seppala Siberian Sleddog or the Wirehaired Pointing Griffon?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What is the nationality of a player that was traded during the 2010–11 Phoenix Suns season, and also went on to play for the Houston Rockets?",
+        "answer": "Slovenian",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nThe 2010–11 Phoenix Suns season was the 43rd season for the Phoenix Suns of the National Basketball Association (NBA).  On February 24, 2011, the Suns traded Goran Dragić and the draft pick they got earlier from Orlando in exchange for Aaron Brooks. Goran Dragić (born 6 May 1986) is a Slovenian professional basketball for the Miami Heat of the National Basketball Association (NBA).  Dragić has played for the Phoenix Suns twice, the Houston Rockets, and the Miami Heat.\n=========\nQUESTION: What is the nationality of a player that was traded during the 2010–11 Phoenix Suns season, and also went on to play for the Houston Rockets?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Exile was a game that was in the demoware series created by whom?",
+        "answer": "Jeff Vogel",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n All of the games were later revived in the \"Avernum\" series. Avernum is a series of demoware role-playing video games by Jeff Vogel of Spiderweb Software available for Macintosh and Windows-based computers.\n=========\nQUESTION: Exile was a game that was in the demoware series created by whom?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which national park has more land area, Ordesa y Monte Perdido National Park or the Atlantic Islands of Galicia National Park?",
+        "answer": "Ordesa y Monte Perdido",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nOrdesa y Monte Perdido National Park (Parque nacional de Ordesa y Monte Perdido) is an IUCN Category II National Park situated in the Pyrenees of Huesca province, Aragon, Spain.  Its protected area was enlarged in 1982 to cover the whole region amounting to 156.08 km².  The park covers a land area of 1200 ha and a sea area of 7200 ha .\n=========\nQUESTION: Which national park has more land area, Ordesa y Monte Perdido National Park or the Atlantic Islands of Galicia National Park?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When did the TV series which showed the episode Nepotism start on NBC ? ",
+        "answer": "March 24, 2005,",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n\"Nepotism\" is the seventh season premiere of the American comedy television series \"The Office\" and the show's 127th episode overall. The Office is an American television comedy series that aired on NBC from March 24, 2005, to May 16, 2013.\n=========\nQUESTION: When did the TV series which showed the episode Nepotism start on NBC ? \n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What fruit, often soaked in a suspension of food coloring, is found on top of a Manchester tart?",
+        "answer": "Maraschino cherry",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nManchester tart is a traditional English baked tart consisting of a shortcrust pastry shell, spread with raspberry jam, covered with a custard filling and topped with flakes of coconut and a Maraschino cherry.  In their modern form, the cherries are first preserved in a brine solution usually containing sulfur dioxide and calcium chloride to bleach the fruit, then soaked in a suspension of food coloring (common red food dye, FD&C Red 40), sugar syrup, and other components.\n=========\nQUESTION: What fruit, often soaked in a suspension of food coloring, is found on top of a Manchester tart?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Arrhenius equation was proposed by this  Nobel-Prize winning Swedish scientist who is one of the founders of the science of what?",
+        "answer": "physical chemistry",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n The equation was proposed by Svante Arrhenius in 1889, based on the work of Dutch chemist Jacobus Henricus van 't Hoff who had noted in 1884 that Van 't Hoff's equation for the temperature dependence of equilibrium constants suggests such a formula for the rates of both forward and reverse reactions. Svante August Arrhenius (19 February 1859 – 2 October 1927) was a Nobel-Prize winning Swedish scientist, originally a physicist, but often referred to as a chemist, and one of the founders of the science of physical chemistry.\n=========\nQUESTION: Arrhenius equation was proposed by this  Nobel-Prize winning Swedish scientist who is one of the founders of the science of what?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which of the following was founded by the Society of Jesus: Ateneo de Manila University or Washington State University?",
+        "answer": "Ateneo de Manila University",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nThe Ateneo de Manila University (Filipino: \"Pamantasang Ateneo de Manila;\" Spanish:\" Universidad Ateneo de Manila\") is a private research university in Quezon City, Philippines.  Founded in 1859 by the Society of Jesus, the Ateneo is the third-oldest university in the Philippines. Washington State University (WSU) is a public research university in Pullman, Washington, in the Palouse region of the northwest United States.\n=========\nQUESTION: Which of the following was founded by the Society of Jesus: Ateneo de Manila University or Washington State University?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When was the album that \"Wildest Dreams\" was on released?",
+        "answer": "October 27, 2014",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n\"Wildest Dreams\" is a song recorded by American singer-songwriter Taylor Swift for her fifth studio album, \"1989\". 1989 is the fifth studio album by American singer-songwriter Taylor Swift released on October 27, 2014, through Big Machine Records.\n=========\nQUESTION: When was the album that \"Wildest Dreams\" was on released?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What FIA drag racing class is similar to the Australian Top Doorslammer clas?",
+        "answer": "Pro Modified",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nTop Doorslammer is a professional (Pro) class of Australian drag racing. Pro Modified, also known as Pro Mod, is a class or division in the sport of drag racing used in the NHRA and FIA (quarter-mile) and the Professional Drag Racers Association (PDRA) (eighth-mile).\n=========\nQUESTION: What FIA drag racing class is similar to the Australian Top Doorslammer clas?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Are Soul Asylum and Live from the same country?",
+        "answer": "yes",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nSoul Asylum is an American alternative rock band formed in 1981 in Minneapolis, Minnesota. Live ( , often typeset as LĪVE or +LĪVE+) is an American rock band from York, Pennsylvania, consisting of Ed Kowalczyk (lead vocals, rhythm guitar), Chad Taylor (lead guitar, backing vocals), Patrick Dahlheimer (bass), and Chad Gracey (drums).\n=========\nQUESTION: Are Soul Asylum and Live from the same country?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Chris McKay directed three seasons of the show that was shown on which channel?",
+        "answer": "Adult Swim",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n He is best known for directing and editing three seasons of \"Robot Chicken\" and two seasons of \"Moral Orel\". Robot Chicken is an American stop motion sketch comedy television series, created and executive produced for Adult Swim by Seth Green and Matthew Senreich along with co-head writers Douglas Goldstein and Tom Root.\n=========\nQUESTION: Chris McKay directed three seasons of the show that was shown on which channel?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "The Apples in Stereo and SafetySuit are both what?",
+        "answer": "rock band",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nThe Apples in Stereo, styled as The Apples in stereo, are an American rock band associated with Elephant Six Collective, a group of bands also including Neutral Milk Hotel and The Olivia Tremor Control. SafetySuit is an American pop rock and alternative rock band from Tulsa, Oklahoma, currently based in Nashville, Tennessee.\n=========\nQUESTION: The Apples in Stereo and SafetySuit are both what?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Who created the game mechanics that were later used by the \"Mother\" series of video games?",
+        "answer": "Yuji Horii",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n Written by Shigesato Itoi and published by Nintendo, and featuring game mechanics modeled on the \"Dragon Quest\" series, the \"Mother\" series is known for its sense of humor, originality, and parody. Dragon Quest, published as Dragon Warrior in North America until 2005, is a series of console role-playing video games created by Yuji Horii and his studio Armor Project.\n=========\nQUESTION: Who created the game mechanics that were later used by the \"Mother\" series of video games?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "The New York City Airport that is associated with Shuttle America is located on which New York bays?",
+        "answer": "Flushing and Bowery Bays",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nShuttle America Corporation was an American regional airline based in Indianapolis, Indiana, USA.  It fed United Airlines flights at Chicago O'Hare International Airport (ORD) and Houston Intercontinental Airport (IAH) under the United Express brand, as well as Delta Air Lines flights at Atlanta (ATL), New York-LaGuardia (LGA), and New York-JFK under the Delta Connection brand. LaGuardia Airport (IATA: LGA, ICAO: KLGA, FAA LID: LGA) is an airport in the northern part of the New York City borough of Queens in the United States.  It is on the waterfront of Flushing and Bowery Bays in East Elmhurst and borders the neighborhoods of Astoria and Jackson Heights.\n=========\nQUESTION: The New York City Airport that is associated with Shuttle America is located on which New York bays?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Gummibar is most notable for a novelty dance song that was first released in Hungary, and was written by who?",
+        "answer": "Christian Schneider",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n It is most notable for the song and video \"I'm a Gummy Bear (The Gummy Bear Song)\". \"I'm a Gummy Bear (The Gummy Bear Song)\" is a novelty dance song by Gummibär, in reference to the gummy bear, a type of bear-shaped candy originating in Germany.  It was written by German composer Christian Schneider and released by its label Gummybear International.  The song was first released in Hungary, where it spent eight months as number 1 atop the ringtones chart.\n=========\nQUESTION: Gummibar is most notable for a novelty dance song that was first released in Hungary, and was written by who?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Who is the producer of the film in which Dan Dehaan played title character? ",
+        "answer": "Besson",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nDane William DeHaan ( ; born February 6, 1986) is an American actor. Valerian and the City of a Thousand Planets (French: \"Valérian et la Cité des mille planètes\" ) is a 2017 English-language French 3D science fiction adventure film written and directed by Luc Besson, and co-produced by Besson and his wife, Virginie Besson-Silla.\n=========\nQUESTION: Who is the producer of the film in which Dan Dehaan played title character? \n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Who served as the Oklahoma Sooners football coach in 1949?",
+        "answer": "Bud Wilkinson",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n In their third year under head coach Bud Wilkinson, the Sooners compiled an undefeated 11–0 record (5–0 against conference opponents), won the Big Six Conference championship, were ranked #2 in the final AP Poll, and outscored their opponents by a combined total of 399 to 88. Charles Burnham \"Bud\" Wilkinson (April 23, 1916 – February 9, 1994) was an American football player, coach, broadcaster, and politician.\n=========\nQUESTION: Who served as the Oklahoma Sooners football coach in 1949?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which Republican House Representative was defeated by Thad Cochran for a Senate Chair in 2014?",
+        "answer": "Chris McDaniel",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n Cochran won reelection to a seventh term in 2014, after defeating Chris McDaniel in an intense primary run-off election. Christopher Brian \"Chris\" McDaniel (born June 28, 1972) is an American attorney, conservative commentator, and is a Republican politician in the Mississippi Senate representing the 42nd District, which encompasses part of South Mississippi.\n=========\nQUESTION: Which Republican House Representative was defeated by Thad Cochran for a Senate Chair in 2014?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Who played the role of Frank castle in the 2004 action film in which Ben Foster played a role?",
+        "answer": "Thomas Jane",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n He has had roles in films including \"The Punisher\" (2004), \"\" (2006), \"Alpha Dog\" (2006), \"The Messenger\" (2009), \"Pandorum\" (2009), \"The Mechanic\" (2011), \"Contraband\" (2012), \"Lone Survivor\" (2013) and \"The Program\" (2015). The Punisher is a 2004 American vigilante action film based on the Marvel Comics character of the same name, starring Thomas Jane as the antihero Frank Castle/The Punisher and John Travolta as Howard Saint, a money launderer who orders the death of Castle's entire family.\n=========\nQUESTION: Who played the role of Frank castle in the 2004 action film in which Ben Foster played a role?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "When was the airline alliance founded whose one of the member among 20 member carriers is Korean Air?",
+        "answer": "June 2000",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nCho Yangho (Korean: 조양호, Hanja: 趙亮鎬, RR: \"Jo Yang-ho\", M-R: \"Cho Yangho\"; sometimes written Y. H. Cho) is the chairman and chief executive officer of Korean Air, chairman of the Hanjin Group, and a founding member of SkyTeam alliance. SkyTeam is an airline alliance.  Founded in June 2000, SkyTeam was the last of the three major airline alliances to be formed, the first two being Star Alliance and Oneworld.  s of 2014 , SkyTeam consists of 20 carriers from five continents and operates with the slogan \"Caring more about you\".\n=========\nQUESTION: When was the airline alliance founded whose one of the member among 20 member carriers is Korean Air?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What Danish island with a defunct lighthouse is located between Zealand and Funen?",
+        "answer": "Romsø",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nRomsø is a Danish island in the Great Belt off the coast of Funen.  It has an area of 1.09 km² and has, since 1996, no permanent residents.  A defunct lighthouse and a few houses are located on the island; a substantial part of its area is covered by forest. The Great Belt (Danish: \"Storebælt\" ) is a strait between the major islands of Zealand (\"Sjælland\") and Funen (\"Fyn\") in Denmark.\n=========\nQUESTION: What Danish island with a defunct lighthouse is located between Zealand and Funen?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": " Elizabeth Forsythe Hailey, a journalist, and Paula Fox, an author, are of what nationality?",
+        "answer": "American",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nElizabeth Forsythe Hailey (born August 31, 1938 in Dallas, Texas) is an American journalist and playwright. Paula Fox (April 22, 1923 – March 1, 2017) was an American author of novels for adults and children and of two memoirs.\n=========\nQUESTION:  Elizabeth Forsythe Hailey, a journalist, and Paula Fox, an author, are of what nationality?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What son of Zeus in Greek mythology was said to have fatheres an Argonaut seer?",
+        "answer": "Apollo",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n Allegedly a son of Apollo, he had Abas (or Ampycus) as his mortal father.  Apollo is the son of Zeus and Leto, and has a twin sister, the chaste huntress Artemis.\n=========\nQUESTION: What son of Zeus in Greek mythology was said to have fatheres an Argonaut seer?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Nick Debout was an American Football player who played for the Atlanta Falcons, Seattle Seahawks and Minnesota Vikings.  He attended a University often pronounce \"U-Dub\".  What University did he attend?",
+        "answer": "University of Wyoming",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nNick Bebout (Born May 5, 1951 in Riverton, Wyoming), was an American football player who played at offensive tackle for three teams over an 8-year career from 1973 to 1980.  Bebout played high school football for Shoshoni, Wyoming, and later went on to play for the University of Wyoming. The University of Wyoming is a land-grant university located in Laramie, Wyoming, situated on Wyoming's high Laramie Plains, at an elevation of 7,220 feet (2194 m), between the Laramie and Snowy Range mountains.  It is known as UW (often pronounced \"U-Dub\") to people close to the university.\n=========\nQUESTION: Nick Debout was an American Football player who played for the Atlanta Falcons, Seattle Seahawks and Minnesota Vikings.  He attended a University often pronounce \"U-Dub\".  What University did he attend?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Yunost, is a Russian language literary magazine created in which year, in Moscow (initially as a USSR Union of Writers' organ) by Valentin Kataev, was a Russian and Soviet novelist and playwright who managed to create penetrating works discussing post-revolutionary social conditions without running afoul of the demands of official Soviet style?",
+        "answer": "1955",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nYunost (Russian: Ю́ность , \"Youth\") is a Russian language literary magazine created in 1955 in Moscow (initially as a USSR Union of Writers' organ) by Valentin Kataev, its first editor-in-chief, who was fired in 1961 for publishing Vasily Aksyonov's \"Ticket to the Stars\". Valentin Petrovich Kataev (Russian: Валентин Петрович Катаев ; also spelled Katayev or Kataiev; 28 January [O.S. 16 January] 1897  – 12 April 1986) was a Russian and Soviet novelist and playwright who managed to create penetrating works discussing post-revolutionary social conditions without running afoul of the demands of official Soviet style.\n=========\nQUESTION: Yunost, is a Russian language literary magazine created in which year, in Moscow (initially as a USSR Union of Writers' organ) by Valentin Kataev, was a Russian and Soviet novelist and playwright who managed to create penetrating works discussing post-revolutionary social conditions without running afoul of the demands of official Soviet style?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "FNQ Rugby, formerly the Cairns and District Rugby Union (CDRU), is the umbrella organisation for Rugby Union, in Far North Queensland, and where?",
+        "answer": "Cairns",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nFNQ Rugby, formerly the Cairns and District Rugby Union (CDRU), is the umbrella organisation for Rugby Union in Cairns and Far North Queensland. Cairns ( ) is a city in the Cairns Region, Queensland, Australia.\n=========\nQUESTION: FNQ Rugby, formerly the Cairns and District Rugby Union (CDRU), is the umbrella organisation for Rugby Union, in Far North Queensland, and where?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which actress, known for her role as Harper Munroe on the MTV comedy series \"Happyland\", starred alongside Laura Marano, Parker Mack, Michelle Clunie and Kathleen Wilhoite in the film A Sort of Homecoming?",
+        "answer": "Katherine Grace McNamara",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n The films stars Katherine McNamara, Laura Marano, Parker Mack, Michelle Clunie and Kathleen Wilhoite. Katherine Grace McNamara (born November 22, 1995) is an American actress.  She is known for her role as Harper Munroe on the MTV comedy series \"Happyland\", and for her lead role as Clary Fray on the Freeform fantasy series \"Shadowhunters\".\n=========\nQUESTION: Which actress, known for her role as Harper Munroe on the MTV comedy series \"Happyland\", starred alongside Laura Marano, Parker Mack, Michelle Clunie and Kathleen Wilhoite in the film A Sort of Homecoming?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Michael Gordon and Vincenzo Natali, have which mutual nationality?",
+        "answer": "American",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nMichael Gordon (born Irving Kunin Gordon; September 6, 1909 – April 29, 1993) was an American stage actor and stage and film director. Vincenzo Natali (born January 6, 1969) is an American-Canadian film director and screenwriter, best known for writing and directing science fiction films such as \"Cube\", \"Cypher\", \"Nothing\", and \"Splice\".\n=========\nQUESTION: Michael Gordon and Vincenzo Natali, have which mutual nationality?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What title does George Sanders and Shere Khan have in common?",
+        "answer": "Jungle Book",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n He is perhaps best known as Jack Favell in \"Rebecca\" (1940), Scott Folliott in \"Foreign Correspondent\" (1940) (a rare heroic part), Addison DeWitt in \"All About Eve\" (1950), for which he won an Academy Award, King Richard the Lionheart in \"King Richard and the Crusaders\" (1954), Mr. Freeze in a two-parter episode of \"Batman\" (1966), the voice of the malevolent man-hating tiger Shere Khan in Disney's \"The Jungle Book\" (1967), and as Simon Templar, \"The Saint\", in five films made in the 1930s and 1940s. Shere Khan (Hindi: शेर खान ; Urdu: شیر خان‎ ) is a fictional Bengal tiger and the main antagonist of Rudyard Kipling's \"Jungle Book\" and its adaptations.\n=========\nQUESTION: What title does George Sanders and Shere Khan have in common?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Helen Fielding and Anita Loos, have which occupation in common?",
+        "answer": "screenwriter",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nHelen Fielding is an English novelist and screenwriter, best known as the creator of the fictional character Bridget Jones, and a sequence of novels and films beginning with the life of a thirtysomething singleton in London trying to make sense of life and love. \" Anita Loos (April 26, 1889 – August 18, 1981) was an American screenwriter, playwright and author, best known for her blockbuster comic novel, \"Gentlemen Prefer Blondes\".\n=========\nQUESTION: Helen Fielding and Anita Loos, have which occupation in common?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which Canadian mine hasn't been confirmed to exist, Beanland Mine or Lost Lemon Mine?",
+        "answer": "The Lost Lemon Mine",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nBeanland Mine, also known as Clenor Mine, is an abandoned surface and underground mine in Northeastern Ontario, Canada. The Lost Lemon Mine is a legendary lost mine said to be located in the Canadian Province of Alberta.\n=========\nQUESTION: Which Canadian mine hasn't been confirmed to exist, Beanland Mine or Lost Lemon Mine?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "In what state is the corporation which Tom Monaghan founded headquartered?",
+        "answer": "Michigan",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nThomas Stephen \"Tom\" Monaghan (born March 25, 1937) is an American entrepreneur who founded Domino's Pizza in 1960.  The corporation is headquartered at the Domino's Farms Office Park in Ann Arbor, Michigan, United States.\n=========\nQUESTION: In what state is the corporation which Tom Monaghan founded headquartered?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which retired Australian musician and songwriter is  George Redburn Young  younger brother",
+        "answer": "Malcolm Mitchell Young",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n Young was also the producer of some work by the Australian hard rock band AC/DC, formed by his younger brothers Malcolm and Angus Young. Malcolm Mitchell Young (born 6 January 1953) is a retired Australian musician and songwriter, best known as a co-founder, rhythm guitarist, backing vocalist and songwriter for the hard rock band AC/DC.\n=========\nQUESTION: Which retired Australian musician and songwriter is  George Redburn Young  younger brother\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Who directed the 2012 romantic-comedy film Jeom Deok-su starred in?",
+        "answer": "Daniel Hsia",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nShanghai Calling is a 2012 American romantic-comedy film written and directed by Daniel Hsia and produced by Janet Yang. Daniel Phillip Henney or Jeom Deok-su (born November 28, 1979) is an American actor and model, known for starring in films such as \"Seducing Mr. Perfect\" (2006), \"My Father\" (2007), \"\" (2009), \"Shanghai Calling\" (2012), \"The Last Stand\" (2013), and \"Big Hero 6\" (2014).\n=========\nQUESTION: Who directed the 2012 romantic-comedy film Jeom Deok-su starred in?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Walker was a film that starred the actor who currently stars in what HBO drama?",
+        "answer": "Westworld",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nWalker is a 1987 American-Spanish historical revisionist film directed by Alex Cox and starring Ed Harris, Richard Masur, Rene Auberjonois, Peter Boyle, Miguel Sandoval, and Marlee Matlin.  Harris currently stars in the HBO sci-fi drama series \"Westworld\".\n=========\nQUESTION: Walker was a film that starred the actor who currently stars in what HBO drama?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Robert Wisden played Richard Nixon on Watchmen which featured characters acquired from what company?",
+        "answer": "Charlton Comics",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nRobert Charles Wisden (born 1958) is an English actor who has an extensive career in Canadian and American television.  He is best known for his role as United States President Richard Nixon in Zack Snyder's film adaptation of the DC graphic novel \"Watchmen\", Chief Coroner James Flynn in \"Da Vinci's Inquest\", and Ken Browning in \"Final Destination\".  \"Watchmen\" originated from a story proposal Moore submitted to DC featuring superhero characters that the company had acquired from Charlton Comics.\n=========\nQUESTION: Robert Wisden played Richard Nixon on Watchmen which featured characters acquired from what company?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "In between Adam Gontier and Andy Childs who's highest charting single is \"Simple Life\"?",
+        "answer": "Andy Childs",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nAdam Wade Gontier (born May 25, 1978) is a Canadian singer, songwriter and musician. Andy Childs (born December 7, 1962 in Memphis, Tennessee) is an American country music singer-songwriter.  His highest charting single, \"Simple Life,\" peaked at No. 61 in 1994.\n=========\nQUESTION: In between Adam Gontier and Andy Childs who's highest charting single is \"Simple Life\"?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Was either the Tet Offensive or Western Allied invasion of Germany started on a holiday?",
+        "answer": "yes",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n The name of the offensive comes from the Tết holiday, the Vietnamese New Year, when the first major attacks took place.  The Allied invasion of Germany started with the Western Allies crossing the Rhine River in March 1945 before fanning out and overrunning all of western Germany from the Baltic in the north to Austria in the south before the Germans surrendered on 8 May 1945.\n=========\nQUESTION: Was either the Tet Offensive or Western Allied invasion of Germany started on a holiday?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "The Staffordshire Bull Terrier and Galgo Español are both what type of animal?",
+        "answer": "dog",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nThe Staffordshire Bull Terrier is a medium-sized, short-coated breed of dog of English lineage and may be considered to be within the pit bull type. The Galgo Español (\"Spanish galgo\") or Spanish greyhound is an ancient breed of dog, specifically a member of the sighthound family.\n=========\nQUESTION: The Staffordshire Bull Terrier and Galgo Español are both what type of animal?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Dark Side of the Moon is a French mockumentary featuring a guest appearance by  an American retired politician and businessman who served as the 21st Secretary of Defense under who?",
+        "answer": "President George W. Bush",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nDark Side of the Moon is a French mockumentary by director William Karel which originally aired on Arte in 2002 with the title Opération Lune.  It features some surprising guest appearances, most notably by Donald Rumsfeld, Dr. Henry Kissinger, Alexander Haig, Vernon Walters, Buzz Aldrin and Stanley Kubrick's widow, Christiane Kubrick. Donald Henry \"Don\" Rumsfeld (born July 9, 1932) is an American retired politician and businessman.  Rumsfeld served as the 13th Secretary of Defense from 1975 to 1977 under President Gerald Ford, and as the 21st Secretary of Defense from 2001 to 2006 under President George W. Bush.\n=========\nQUESTION: Dark Side of the Moon is a French mockumentary featuring a guest appearance by  an American retired politician and businessman who served as the 21st Secretary of Defense under who?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Asia Cosmopolitan Awards is an international award established by Economic Research Institute for ASEAN and East Asia (ERIA) in the context of commemoration of the 1300-year anniversary in 2010 of Heijo-kyo, (ancient capital of Japan located in present-day Nara), Japan is a sovereign island nation, in which eastern subregion of the Asian continent?",
+        "answer": "East Asia",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nAsia Cosmopolitan Awards is an international award established by Economic Research Institute for ASEAN and East Asia (ERIA) in the context of commemoration of the 1300-year anniversary in 2010 of Heijo-kyo (ancient capital of Japan located in present-day Nara) as the last destination of the ancient Silk Road and one of the first cosmopolitan cities in East Asia. Japan (Japanese: 日本 \"Nippon\" ] or \"Nihon\" ] ; formally 日本国 \"  \" or \"Nihon-koku\", meaning \"State of Japan\") is a sovereign island nation in East Asia.\n=========\nQUESTION: Asia Cosmopolitan Awards is an international award established by Economic Research Institute for ASEAN and East Asia (ERIA) in the context of commemoration of the 1300-year anniversary in 2010 of Heijo-kyo, (ancient capital of Japan located in present-day Nara), Japan is a sovereign island nation, in which eastern subregion of the Asian continent?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Yoko Ono's son, who was a member of Between My Head and the Sky, was born on what date?",
+        "answer": "October 9, 1975",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n The new Plastic Ono Band lineup features Cornelius, Yuka Honda (of Cibo Matto fame) and Ono's son Sean Lennon as band leader and producer. Sean Taro Ono Lennon (Japanese: 小野 太郎 , Hepburn: Ono Tarō , born October 9, 1975) is an American singer, songwriter and actor.\n=========\nQUESTION: Yoko Ono's son, who was a member of Between My Head and the Sky, was born on what date?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Christoph Sanders played the role of Kyle Anderson in a tv series that aired on what network?",
+        "answer": "ABC",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nChristopher \"Christoph\" Sanders (born April 21, 1988) is an American actor who is best known for his role as Ned Banks in the television series \"Ghost Whisperer\" and Kyle Anderson in the television series \"Last Man Standing\".  The series aired on ABC from October 11, 2011 to March 31, 2017 with 130 episodes.\n=========\nQUESTION: Christoph Sanders played the role of Kyle Anderson in a tv series that aired on what network?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "At which Air National Guard installation within Joint Base Cape Cod is this United States Air Force intelligence unit located, which participated in Operation Northern Watch, and was dispatched during the September 11 attacks in an attempt to stop the attacks?",
+        "answer": "Otis Air National Guard Base",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nThe United States Air Force's 101st Intelligence Squadron (101 IS), Massachusetts Air National Guard, is an intelligence unit assigned to the 102nd Intelligence Wing and located at Otis Air National Guard Base, Massachusetts.  It also participated in Operation Northern Watch.  During the September 11 attacks, the 101st was the first Air Force unit to send aircraft toward New York City, but they arrived too late to help stop the attacks. Otis Air National Guard Base (IATA: FMH, ICAO: KFMH, FAA LID: FMH) is an Air National Guard installation located within Joint Base Cape Cod, a military training facility, located on the western portion of Cape Cod, in western Barnstable County, Massachusetts, United States.\n=========\nQUESTION: At which Air National Guard installation within Joint Base Cape Cod is this United States Air Force intelligence unit located, which participated in Operation Northern Watch, and was dispatched during the September 11 attacks in an attempt to stop the attacks?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which character, from a 2008 American rock musical, is Meghann Fahy known for?",
+        "answer": "Natalie Goodman",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nMeghann Alexandra Fahy (born April 25, 1990) is an American actress and singer, best known for her role as Natalie Goodman in the play \"Next to Normal\", and as Hannah O'Connor on the ABC daytime soap opera \"One Life to Live\". Next to Normal (stylized as next to normal) is a 2008 American rock musical with book and lyrics by Brian Yorkey and music by Tom Kitt.\n=========\nQUESTION: Which character, from a 2008 American rock musical, is Meghann Fahy known for?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "In what year did the singer behind \"Eh, Eh\" rise to prominence?",
+        "answer": "2008",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n\"Eh, Eh (Nothing Else I Can Say)\" is a song by American singer Lady Gaga, from her debut album, \"The Fame\" (2008).  Gaga rose to prominence in 2008 with the release of her debut album, a dance-pop and electropop record titled \"The Fame\", and its internationally chart-topping singles \"Just Dance\" and \"Poker Face\".\n=========\nQUESTION: In what year did the singer behind \"Eh, Eh\" rise to prominence?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Winter formal, also called Winterfest, Winter Ball, Sweethearts, Snow Ball, or Queen of Hearts Dance, is a dance held by high schools in the United States and Canada, at some schools, this dance may supplement or replace which informal dance sponsored by a high school, middle school or college, in which female students invite male students?",
+        "answer": "Sadie Hawkins Dance",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n At some schools, this dance may supplement or replace a Sadie Hawkins dance. In the United States and Canada, the Sadie Hawkins Dance is a usually informal dance sponsored by a high school, middle school or college, in which female students invite male students.\n=========\nQUESTION: Winter formal, also called Winterfest, Winter Ball, Sweethearts, Snow Ball, or Queen of Hearts Dance, is a dance held by high schools in the United States and Canada, at some schools, this dance may supplement or replace which informal dance sponsored by a high school, middle school or college, in which female students invite male students?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which TV show was hosted by a former professional wrestler known by the ring name Goldberg?",
+        "answer": "Automaniac",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nAutomaniac was a TV show hosted by former professional wrestler Bill Goldberg. William Scott Goldberg (born December 27, 1966) is an American professional wrestler, actor, former professional football player and former mixed martial arts color commentator known for his time in WWE and WCW under the ring name Goldberg.\n=========\nQUESTION: Which TV show was hosted by a former professional wrestler known by the ring name Goldberg?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Figureskaters Milan Brzý and Radmila Chroboková teamed up to repersent the Czech Republic during a worldwide competition; what amphitheatre was this event held in?",
+        "answer": "Hamar Olympic Amphitheatre",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n Brzý teamed up with Radmila Chroboková around 1992. The 1994 Winter Olympics figure skating competition was held at the Hamar Olympic Amphitheatre.\n=========\nQUESTION: Figureskaters Milan Brzý and Radmila Chroboková teamed up to repersent the Czech Republic during a worldwide competition; what amphitheatre was this event held in?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What global management agency funded Chewy along with Volition Capital, Mark Vadon, New Horizons Fund, BlackRock, Allen & Co, Verlinvest and Greenspring Associates?",
+        "answer": "T. Rowe Price",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n It was founded in 2011 and has received $236M in venture capital financing over 5 rounds from Volition Capital, Mark Vadon, T. Rowe Price, New Horizons Fund, BlackRock, Allen & Co, Verlinvest and Greenspring Associates. T. Rowe Price Group, Inc. is an American publicly owned global asset management firm that offers funds, advisory services, account management, and retirement plans and services for individuals, institutions, and financial intermediaries.\n=========\nQUESTION: What global management agency funded Chewy along with Volition Capital, Mark Vadon, New Horizons Fund, BlackRock, Allen & Co, Verlinvest and Greenspring Associates?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What nationality is the striker who scored 19 goals in the 2007–08 Blackburn Rovers F.C. season ?",
+        "answer": "Paraguayan",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n Striker Roque Santa Cruz, a summer signing from Bayern Munich, had the season of his life, scoring 19 league goals, making up for Benni McCarthy's loss of form. Roque Luis Santa Cruz Cantero (] ; born 16 August 1981) is a Paraguayan footballer who plays as a striker for Primera División Paraguaya club Olimpia Asunción.\n=========\nQUESTION: What nationality is the striker who scored 19 goals in the 2007–08 Blackburn Rovers F.C. season ?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Which game is a board game, Carrom or Ludo? ",
+        "answer": "Ludo",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nCarrom (also known as Karrom) is a \"strike and pocket\" table game of Eastern origin similar to billiards and table shuffleboard. Ludo , (from Latin \"ludo\", \"I play\") is a strategy board game for two to four players, in which the players race their four tokens from start to finish according to the rolls of a single die.\n=========\nQUESTION: Which game is a board game, Carrom or Ludo? \n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "While the monthly American magazine, Club, stands as a pornographic publication, Architectural Digest's principal subject is what? ",
+        "answer": "interior design",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nClub is a monthly American pornographic magazine which is a spin-off publication of the United Kingdom's \"Club International\". Architectural Digest is an American monthly magazine founded in 1920.  Its principal subject is interior design, not architecture more generally, as the name of the magazine suggests.\n=========\nQUESTION: While the monthly American magazine, Club, stands as a pornographic publication, Architectural Digest's principal subject is what? \n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Are both Jim Thompson and Joe Orton citizens of the same country?",
+        "answer": "no",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nJames Myers Thompson (September 27, 1906 – April 7, 1977) was an American author and screenwriter, known for his hardboiled crime fiction. John Kingsley \"Joe\" Orton (1 January 1933 – 9 August 1967) was an English playwright and author.\n=========\nQUESTION: Are both Jim Thompson and Joe Orton citizens of the same country?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Are both the Swedish Vallhund and the Šarplaninac associated with the care of livestock?",
+        "answer": "yes",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n The breed's name, \"Vallhund\", when translated into English, means herding dog, as the Swedish Vallhund was originally bred as a drover and herder of cows over 1,000 years ago. The Šarplaninac or Yugoslavian Shepherd Dog is a dog breed of the livestock guardian type named after the Šar Mountains.\n=========\nQUESTION: Are both the Swedish Vallhund and the Šarplaninac associated with the care of livestock?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Lee Ki-young, which stars in Love Me Not, is from which country?",
+        "answer": "South Korea",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nLee Ki-young (born August 26, 1963) is a South Korean actor. Love Me Not (; literally \"Love and Such Is Not Necessary\") is a 2006 South Korean romance film directed by Lee Cheol-ha and starring Moon Geun-young and Kim Joo-hyuk.\n=========\nQUESTION: Lee Ki-young, which stars in Love Me Not, is from which country?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Who did Timothy L. Spall portray in the film \"The Enfield Haunting\"?",
+        "answer": "Maurice Grosse",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nMaurice Grosse (6 March 1919 – 14 October 2006) was a British paranormal investigator.  Famous for his involvement in the Enfield Poltergeist case from 1977 to 1979, he has subsequently been portrayed in \"The Enfield Haunting\" (2015) by Timothy Spall and most recently in \"The Conjuring 2\" (2016) by Simon McBurney. Timothy Leonard Spall, OBE (born 27 February 1957) is an English character actor and occasional presenter.\n=========\nQUESTION: Who did Timothy L. Spall portray in the film \"The Enfield Haunting\"?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Wasp is a short film starring Natalie Press in pursuit of rekindling a relationship with an ex-boyfriend played by an English actor whose breakthrough roll was as Moff in what?",
+        "answer": "Human Traffic",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nWasp is a short film (26 minutes) written and directed by Andrea Arnold.  Released in 2003, it stars Natalie Press as a struggling single mother determined not to let her four young children prove an obstacle in the pursuit of rekindling a relationship with an old ex-boyfriend Danny Dyer. Daniel John \"Danny\" Dyer (born 24 July 1977) is an English actor who has worked in television, film and theatre.  Dyer's breakthrough role was as Moff in \"Human Traffic\", with other notable roles as Billy the Limpet in \"Mean Machine\", and as Tommy Johnson in \"The Football Factory\".\n=========\nQUESTION: Wasp is a short film starring Natalie Press in pursuit of rekindling a relationship with an ex-boyfriend played by an English actor whose breakthrough roll was as Moff in what?\n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "Anna Phelan received a Oscar nomination for Gorillas in the Mist, but Michael Apted was nominated for how many Academy Awards?  ",
+        "answer": "five",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\n She has been nominated for an Oscar for her work on \"Gorillas in the Mist\", as well as a nomination for a Writers Guild of America Award for her work on \"Mask\" and again for \"Gorillas in the Mist\".  It tells the true story of her work in Rwanda with mountain gorillas and was nominated for five Academy Awards.\n=========\nQUESTION: Anna Phelan received a Oscar nomination for Gorillas in the Mist, but Michael Apted was nominated for how many Academy Awards?  \n=========\nANSWER: please answer less than 6 words"
+    },
+    {
+        "question": "What Indian actress was a contestant on an Indian reality television series that began October 16, 2016?",
+        "answer": "Antara Biswas",
+        "query": "Given the following question and contexts, create a final answer to the question.\n=========\nCONTEXT:\nAntara Biswas, better known by her stage name Mona Lisa (born 21 November 1982), is an Indian actress.  She was a contestant of Indian show Bigg Boss 10 in 2016.  It began airing on 16 October 2016 on Colors.\n=========\nQUESTION: What Indian actress was a contestant on an Indian reality television series that began October 16, 2016?\n=========\nANSWER: please answer less than 6 words"
+    }
+]

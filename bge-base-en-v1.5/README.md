@@ -1,5 +1,4 @@
 ---
-
 tags:
 - sentence-transformers
 - feature-extraction
